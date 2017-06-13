@@ -197,16 +197,15 @@
       <workItem from="1496788982103" duration="43000" />
       <workItem from="1497184712652" duration="14000" />
       <workItem from="1497281054488" duration="22000" />
-      <workItem from="1497333201842" duration="12000" />
+      <workItem from="1497333201842" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4397000" />
+    <option name="totallyTimeSpent" value="4440000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2762" height="1770" extended-state="7" />
-    <editor active="true" />
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24730784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
