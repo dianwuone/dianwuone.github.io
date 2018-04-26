@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title><![CDATA[如何用python搭建一个公众号。]]></title>
+      <url>http://www.diawnu.win/2018/04/26/%E5%A6%82%E4%BD%95%E7%94%A8python%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%8Cone/</url>
+      <content type="html"><![CDATA[<pre><code>看@路人甲 开发的个人公众号蛮不错的。就想着自己搭建一个，熟悉一下开发流程。但是路人甲的代码以流失了，通过强大的百度知乎另一位@段小草 ，代码完整，逻辑清晰。基本按照流程就能搭建自己的公众号了。
+</code></pre><p>1.申请公众号<br>这个不必多说，很简单安腾讯的流程来就行了<br>2.申请sae<br>这个也没有什么特别的要说的。<br>3.部署代码<br>这部分还是研究了很久的。哪个token 一直在不东怎么弄，@段小草 的攻略是之前的了，现在在公众号里只用配置一次就行了。url 就是自己的sae项目地址<br>4.遇见的小问题<br>就是根据第二篇博文搭建的时候图灵机器人，看漏了一个参数，又不报错，很绝望，新浪的日志也很简单，最后请教的作者本人解决的。<br>这了感谢作者。<br> 干货请对照@段小草博文就ok了</p>
+<blockquote>
+<p><a href="https://www.zhihu.com/question/28361295/answer/103768857" target="_blank" rel="external">https://www.zhihu.com/question/28361295/answer/103768857</a><br><a href="https://zhuanlan.zhihu.com/p/21354943" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/21354943</a><br><a href="https://zhuanlan.zhihu.com/p/21390250" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/21390250</a></p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[专业深度建设]]></title>
+      <url>http://www.diawnu.win/2018/04/03/%E4%B8%93%E4%B8%9A%E6%B7%B1%E5%BA%A6%E5%BB%BA%E8%AE%BE/</url>
+      <content type="html"><![CDATA[<pre><code>时间：
+2018年4月3日
+</code></pre>]]></content>
+      
+        <categories>
+            
+            <category> jobs </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 专业深度建设 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[第一篇博文]]></title>
       <url>http://www.diawnu.win/2017/05/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
       <content type="html"><![CDATA[<pre><code>成都大搜索科技有限公司，我会记得你的，你放心。//www.d6ss.com
