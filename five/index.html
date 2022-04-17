@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="Keywords" content="FIVE">
+    <meta name="description" content="FIVE，始于2018年2月17日">
+    <title>从开始，到现在</title>
+    <!-- Style Sheet -->
+    <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="js/jquery-1.3.2.js"></script>
+    <script type="text/javascript" src="js/jquery.countdown.js"></script>
+    <script type="text/javascript" src="js/subscribe.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#defaultCountdown').countdown({since: new Date(2018, 2-1, 17, 11, 02, 0 ),// change this date to match yours, format is year, month-1, day, hour(24), min, sec
+                format: 'ODHMS'});
+        });
+    </script>
+
+    <!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" media="all" href="css/ie6style.css" />
+    <script src="js/belatedPNG.js"></script>
+    <script>
+        DD_belatedPNG.fix('#container, .png, #overlay, #defaultCountdown, #footer');
+    </script>
+    <![endif]-->
+
+</head>
+<body>
+<!-- Main wrap div -->
+<div id="wrap">
+    <!-- logo, to use yours, simply replace the png in images folder -->
+    <div id="logo">
+        <a href="http://www.dianwu.win/five"><img class="png" src="images/logo.png" border="0" alt="返回首页" title="返回首页" /></a>	</div>
+    <!-- main content -->
+    <div id="container">
+        <ul id="lsn">
+            <!-- UnderConstruction / Coming Soon PNG and explainatory text -->
+            <li id="uctext"><h2></h2></li>
+            <li id="uccounter">
+                <!-- Count Down -->
+                <div id="defaultCountdown"></div>
+                <!-- Overlay Transparency -->
+                <div id="overlay"></div>
+                <!--
+                <div id="overlay_2"><img class="png" src="images/hconly.png" alt="涛涛博客，始于2015年5月01日"/></div>
+                -->
+            </li>
+        </ul>
+    </div> <!-- close container -->
+</div><!-- close wrap div -->
+
+</body>
+
+</html>
