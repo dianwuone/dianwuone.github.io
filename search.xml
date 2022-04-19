@@ -6,8 +6,7 @@
     <entry>
       <title><![CDATA[还是用dz搭建]]></title>
       <url>http://www.diawnu.win/2022/04/19/%E8%BF%98%E6%98%AF%E7%94%A8dz%E6%90%AD%E5%BB%BA/</url>
-      <content type="html"><![CDATA[<p>在很久以前就玩dz，听雨轩模板。很好看今天又重新搭了一下。<br><br><br>从新搭建还是蛮快的.处理了宝塔不能外网访问.<br><a href="http://www.tenaim.com" target="_blank" rel="external">http://www.tenaim.com</a><br><br><br>另外个人域名统计<br><a href="http://www.dianwu.win/newGo/index.html" target="_blank" rel="external">http://www.dianwu.win/newGo/index.html</a><br><br>添加统计代码</p>
-<p><script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script> <script>LA.init({id: “Jf9P2YzTQREQ6k01”,ck: “Jf9P2YzTQREQ6k01”})</script><br><a target="_blank" title="51la网站统计" href="https://v6.51.la/land/Jf9P2YzTQREQ6k01"><img src="https://sdk.51.la/icon/3-5.png"></a></p>
+      <content type="html"><![CDATA[<p>在很久以前就玩dz，听雨轩模板。很好看今天又重新搭了一下。<br><br><br>从新搭建还是蛮快的.处理了宝塔不能外网访问.<br><a href="http://www.tenaim.com" target="_blank" rel="external">http://www.tenaim.com</a><br><br><br>另外个人域名统计<br><a href="http://www.dianwu.win/newGo/index.html" target="_blank" rel="external">http://www.dianwu.win/newGo/index.html</a><br><br>添加统计代码<br>在页面里添加是没有用的！尴尬</p>
 ]]></content>
       
         
@@ -54,7 +53,7 @@
 </tr>
 </tbody>
 </table>
-<p>DNSPod - make your domain intelligent  </p>
+<p><img src="_md_files/1.jpeg"><br>DNSPod - make your domain intelligent  </p>
 <p>本邮件由DNSPod系统自动发出，请勿直接回复！<br>如有任何问题请<a href="http://url.go4u.cn:9527/tickets" target="_blank" rel="external">提交工单</a><br>或电联：400-111-1234  </p>
 <p>新浪微博：<a href="http://url.go4u.cn:9527/1a200f58e7222b3705b0be40237e496e" target="_blank" rel="external">http://weibo.com/DNSPod</a><br>腾讯微博：<a href="http://url.go4u.cn:9527/59a802c230fc37545cb60365c02a26a2" target="_blank" rel="external">http://t.qq.com/DNSPod</a></p>
 ]]></content>
@@ -105,7 +104,7 @@
     
     <entry>
       <title><![CDATA[如何用python搭建一个公众号。]]></title>
-      <url>http://www.diawnu.win/2018/04/26/%E5%A6%82%E4%BD%95%E7%94%A8python%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%8Cone/</url>
+      <url>http://www.diawnu.win/2018/04/26/%E5%A6%82%E4%BD%95%E7%94%A8python%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%AC%E4%BC%97%E5%8F%B7_one/</url>
       <content type="html"><![CDATA[<pre><code>看@路人甲 开发的个人公众号蛮不错的。就想着自己搭建一个，熟悉一下开发流程。但是路人甲的代码以流失了，通过强大的百度知乎另一位@段小草 ，代码完整，逻辑清晰。基本按照流程就能搭建自己的公众号了。
 </code></pre><p>1.申请公众号<br>这个不必多说，很简单安腾讯的流程来就行了<br>2.申请sae<br>这个也没有什么特别的要说的。<br>3.部署代码<br>这部分还是研究了很久的。哪个token 一直在不东怎么弄，@段小草 的攻略是之前的了，现在在公众号里只用配置一次就行了。url 就是自己的sae项目地址<br>4.遇见的小问题<br>就是根据第二篇博文搭建的时候图灵机器人，看漏了一个参数，又不报错，很绝望，新浪的日志也很简单，最后请教的作者本人解决的。<br>这了感谢作者。<br> 干货请对照@段小草博文就ok了</p>
 <blockquote>
@@ -185,7 +184,9 @@
     <entry>
       <title><![CDATA[name]]></title>
       <url>http://www.diawnu.win/2017/03/07/name/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p></p><h1>hello world</h1><p></p>
+<p>这是第一篇博客</p><br><p>默认的第一篇博客hello world，编辑日期目前没有研究懂</p>
+]]></content>
       
         <categories>
             
