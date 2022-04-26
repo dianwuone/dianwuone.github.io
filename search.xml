@@ -4,6 +4,40 @@
   
     
     <entry>
+      <title><![CDATA[样式初始化]]></title>
+      <url>http://www.diawnu.win/2022/04/26/%E6%A0%B7%E5%BC%8F%E5%88%9D%E5%A7%8B%E5%8C%96/</url>
+      <content type="html"><![CDATA[<h2 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h2><p>六条样式预设</p>
+<p>{margin 0 padding 0} 外边距和内填充清零</p>
+<p>ul{list-style：none } 列表项取消</p>
+<p>img input{boder：none} 边框线取消</p>
+<p>a{text-decoration:none} 链接下划线取消</p>
+<p>body{font-family:arial “微软雅黑”，#fff；}字体。背景色预设</p>
+<p>i{ font-style：normal。font-family：consolas}取消I标签斜体，设置特殊字体（固定字符宽度的字型，属无衬线字体）。</p>
+<p>关注信息<br><br>transition 状态过度动画<br><br>改变手形<br><br><br>特殊符号<br>自定义属性(设置/获取)</p>
+<p>异步加载<br>构造函数</p>
+<p>原型链</p>
+<p>依赖注入</p>
+<p>自定义图标/文字</p>
+<p>回调</p>
+<p>闭包</p>
+<p>method=”get”</p>
+<p>标签属性</p>
+<p>图片提交</p>
+<p>鼠标样式</p>
+<p>字体引用</p>
+<p>闭包回调</p>
+<p>continue 表示放弃本次循环，进行下一次循环</p>
+<p>媒体查询</p>
+<p>回调函数</p>
+<p>冒泡</p>
+<p>跨域ajax</p>
+<p>流体布局</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[中国互联网环境]]></title>
       <url>http://www.diawnu.win/2022/04/22/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%8E%AF%E5%A2%83/</url>
       <content type="html"><![CDATA[<pre><code>恢复访问.80端口要备案哦。。。不要留空主机
