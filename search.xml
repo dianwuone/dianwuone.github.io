@@ -4,9 +4,28 @@
   
     
     <entry>
+      <title><![CDATA[按日期归纳]]></title>
+      <url>http://www.diawnu.win/2022/04/28/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%BD%92%E7%BA%B3/</url>
+      <content type="html"><![CDATA[<p>ok 又学习了新知识点，</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[post]]></title>
+      <url>http://www.diawnu.win/2022/04/28/study-%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/</url>
+      <content type="html"><![CDATA[<p>hexo new post -p /study/如何新建文件夹.md</p>
+<p>通过以上命令新建了文件夹。和文章。<br>但是标题不对呢？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[hexo学习笔记]]></title>
       <url>http://www.diawnu.win/2022/04/28/hexo%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<p>layout: ‘[study]’<br>计划是在 _posts文件夹新建一个study文件夹管理，看来方法错误。</p>
+      <content type="html"><![CDATA[<p>layout: ‘[study]’<br>1、计划是在 _posts文件夹新建一个study文件夹管理，看来方法错误。<br>2、默认文档时间问题还没有解决，<br>        上次从备份文件重新生成博客后，默认hello world 时间就一直是当时日期了？<br>        只有手动添加date 标签？？？</p>
 ]]></content>
       
         
@@ -195,7 +214,7 @@
     
     <entry>
       <title><![CDATA[新的开始Go Go Go]]></title>
-      <url>http://www.diawnu.win/2022/03/20/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8BGo%20Go%20Go/</url>
+      <url>http://www.diawnu.win/2022/03/20/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8BGo-Go-Go/</url>
       <content type="html"><![CDATA[<p>Welcome</p>
 <p><strong>NEW</strong></p>
 <p>现在是16点09分</p>
@@ -213,7 +232,7 @@
     
     <entry>
       <title><![CDATA[如何用python搭建一个公众号。]]></title>
-      <url>http://www.diawnu.win/2018/04/26/%E5%A6%82%E4%BD%95%E7%94%A8python%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%AC%E4%BC%97%E5%8F%B7_one/</url>
+      <url>http://www.diawnu.win/2018/04/26/%E5%A6%82%E4%BD%95%E7%94%A8python%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%AC%E4%BC%97%E5%8F%B7-one/</url>
       <content type="html"><![CDATA[<pre><code>看@路人甲 开发的个人公众号蛮不错的。就想着自己搭建一个，熟悉一下开发流程。但是路人甲的代码以流失了，通过强大的百度知乎另一位@段小草 ，代码完整，逻辑清晰。基本按照流程就能搭建自己的公众号了。
 </code></pre><p>1.申请公众号<br>这个不必多说，很简单安腾讯的流程来就行了<br>2.申请sae<br>这个也没有什么特别的要说的。<br>3.部署代码<br>这部分还是研究了很久的。哪个token 一直在不东怎么弄，@段小草 的攻略是之前的了，现在在公众号里只用配置一次就行了。url 就是自己的sae项目地址<br>4.遇见的小问题<br>就是根据第二篇博文搭建的时候图灵机器人，看漏了一个参数，又不报错，很绝望，新浪的日志也很简单，最后请教的作者本人解决的。<br>这了感谢作者。<br> 干货请对照@段小草博文就ok了</p>
 <blockquote>
