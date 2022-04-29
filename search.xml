@@ -4,6 +4,49 @@
   
     
     <entry>
+      <title><![CDATA[更新hexo版本的]]></title>
+      <url>http://www.diawnu.win/2022/04/29/%E6%9B%B4%E6%96%B0hexo%E7%89%88%E6%9C%AC%E7%9A%84/</url>
+      <content type="html"><![CDATA[<p>哎一推错面向百度编程不可取，而且生成文章慢的很..一不小心生成了三篇文章.<br>计划升级hexo 版本 目前3.2.2 和next版本目前5.0<br>和加入<a href="https://valine.js.org/hexo.html#hexo-theme-next" target="_blank" rel="external">https://valine.js.org/hexo.html#hexo-theme-next</a></p>
+<p>目前来看只有搁置了</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[更新hexo版本]]></title>
+      <url>http://www.diawnu.win/2022/04/29/%E6%9B%B4%E6%96%B0hexo%E7%89%88%E6%9C%AC/</url>
+      <content type="html"><![CDATA[<p>哎一推错面向百度编程不可取，而且生成文章慢的很..一不小心生成了三篇文章.</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[更新hexo]]></title>
+      <url>http://www.diawnu.win/2022/04/29/%E6%9B%B4%E6%96%B0hexo/</url>
+      <content type="html"><![CDATA[<p>哎一推错面向百度编程不可取，而且生成文章慢的很..一不小心生成了三篇文章.<br>// A code block<br>var foo = ‘bar’<br>dows PowerShell<br>版权所有 (C) Microsoft Corporation。保留所有权利。</p>
+<p>尝试新的跨平台 PowerShell <a href="https://aka.ms/pscore6" target="_blank" rel="external">https://aka.ms/pscore6</a></p>
+<p>PS C:\WINDOWS\system32&gt; cd C:\Users\one\Desktop\blog<br>PS C:\Users\one\Desktop\blog&gt; hexo -v<br>hexo: 3.2.2<br>hexo-cli: 4.3.0<br>os: win32 10.0.19044<br>node: 12.18.1<br>v8: 7.8.279.23-node.38<br>uv: 1.38.0<br>zlib: 1.2.11<br>brotli: 1.0.7<br>ares: 1.16.0<br>modules: 72<br>nghttp2: 1.41.0<br>napi: 6<br>llhttp: 2.0.4<br>http_parser: 2.9.3<br>openssl: 1.1.1g<br>cldr: 37.0<br>icu: 67.1<br>tz: 2019c<br>unicode: 13.0<br>PS C:\Users\one\Desktop\blog&gt; npm install -g npm-check<br>npm WARN deprecated core-js@2.6.12: core-js@<3.4 is="" no="" longer="" maintained="" and="" not="" recommended="" for="" usage="" due="" to="" the="" number="" of="" issues.="" because="" v8="" engine="" whims,="" feature="" detection="" in="" old="" core-js="" versions="" could="" cause="" a="" slowdown="" up="" 100x="" even="" if="" nothing="" polyfilled.="" please,="" upgrade="" your="" dependencies="" actual="" version="" core-js.="" npm="" warn="" deprecated="" cross-spawn-async@2.2.5:="" cross-spawn="" requires="" build="" toolchain,="" use="" it="" instead="" c:\program="" files\nodejs\npm-check="" -=""> C:\Program Files\nodejs\node_modules\npm-check\bin\cli.js</3.4></p>
+<blockquote>
+<p>core-js@2.6.12 postinstall C:\Program Files\nodejs\node_modules\npm-check\node_modules\core-js<br>node -e “try{require(‘./postinstall’)}catch(e){}”</p>
+</blockquote>
+<p>Thank you for using core-js ( <a href="https://github.com/zloirock/core-js" target="_blank" rel="external">https://github.com/zloirock/core-js</a> ) for polyfilling JavaScript standard library!</p>
+<p>The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:</p>
+<blockquote>
+<p><a href="https://opencollective.com/core-js" target="_blank" rel="external">https://opencollective.com/core-js</a><br><a href="https://www.patreon.com/zloirock" target="_blank" rel="external">https://www.patreon.com/zloirock</a></p>
+</blockquote>
+<p>Also, the author of core-js ( <a href="https://github.com/zloirock" target="_blank" rel="external">https://github.com/zloirock</a> ) is looking for a good job -)</p>
+<ul>
+<li>npm-check@5.9.2<br>added 273 packages from 141 contributors in 249.628s<br>PS C:\Users\one\Desktop\blog&gt; hexo -v<br>hexo: 3.2.2<br>hexo-cli: 4.3.0<br>os: win32 10.0.19044<br>node: 12.18.1<br>v8: 7.8.279.23-node.38<br>uv: 1.38.0<br>zlib: 1.2.11<br>brotli: 1.0.7<br>ares: 1.16.0<br>modules: 72<br>nghttp2: 1.41.0<br>napi: 6<br>llhttp: 2.0.4<br>http_parser: 2.9.3<br>openssl: 1.1.1g<br>cldr: 37.0<br>icu: 67.1<br>tz: 2019c<br>unicode: 13.0<br>PS C:\Users\one\Desktop\blog&gt; npm install -g npm-upgrade<br>npm WARN deprecated request@2.88.2: request has been deprecated, see <a href="https://github.com/request/request/issues/3142" target="_blank" rel="external">https://github.com/request/request/issues/3142</a><br>npm WARN deprecated har-validator@5.1.5: this library is no longer supported<br>npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See <a href="https://v8.dev/blog/math-random" target="_blank" rel="external">https://v8.dev/blog/math-random</a> for details.<br>C:\Program Files\nodejs\npm-upgrade -&gt; C:\Program Files\nodejs\node_modules\npm-upgrade\lib\bin\cli.js</li>
+<li>npm-upgrade@3.1.0<br>added 376 packages from 248 contributors in 346.429s<br>PS C:\Users\one\Desktop\blog&gt; hexo -v<br>hexo: 3.2.2<br>hexo-cli: 4.3.0<br>os: win32 10.0.19044<br>node: 12.18.1<br>v8: 7.8.279.23-node.38<br>uv: 1.38.0<br>zlib: 1.2.11<br>brotli: 1.0.7<br>ares: 1.16.0<br>modules: 72<br>nghttp2: 1.41.0<br>napi: 6<br>llhttp: 2.0.4<br>http_parser: 2.9.3<br>openssl: 1.1.1g<br>cldr: 37.0<br>icu: 67.1<br>tz: 2019c<br>unicode: 13.0<br>PS C:\Users\one\Desktop\blog&gt; cd C:\Users\one\Desktop\hexo_next\blog<br>PS C:\Users\one\Desktop\hexo_next\blog&gt; hexo new 更新hexo<br>INFO  Created: ~\Desktop\hexo_next\blog\source_posts\2022\04\更新hexo.md<br>PS C:\Users\one\Desktop\hexo_next\blog&gt; hexo new 更新hexo版本<br>INFO  Created: ~\Desktop\hexo_next\blog\source_posts\2022\04\更新hexo版本.md<br>PS C:\Users\one\Desktop\hexo_next\blog&gt; hexo new “更新hexo版本的”<br>INFO  Created: ~\Desktop\hexo_next\blog\source_posts\2022\04\更新hexo版本的.md<br>PS C:\Users\one\Desktop\hexo_next\blog&gt;</li>
+</ul>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[按日期归纳]]></title>
       <url>http://www.diawnu.win/2022/04/28/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%BD%92%E7%BA%B3/</url>
       <content type="html"><![CDATA[<p>ok 又学习了新知识点，</p>
