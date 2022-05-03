@@ -4,6 +4,23 @@
   
     
     <entry>
+      <title><![CDATA[sym安装有感]]></title>
+      <url>http://www.diawnu.win/2022/05/03/sym%E5%AE%89%E8%A3%85%E6%9C%89%E6%84%9F/</url>
+      <content type="html"><![CDATA[<p>0、php是世界最好的语言。</p>
+<p>浏览器安装。按教程起码90%人能搭个默认网站了。</p>
+<p>1、java配环境就能劝退90%的人。</p>
+<p>问题1、mvn不是内部命令。</p>
+<p>面向scdn一顿查。安装了软件还要配环境变量。。。</p>
+<p>运行mvn <code>mvn package</code> 还一堆war err ….</p>
+<p>我的社区还要等等了</p>
+<p>[WARNING]<br>[WARNING] Some problems were encountered while building the effective model for org.b3log:symphony:jar:3.6.4<br>[WARNING] ‘dependencies.dependency.systemPath’ for org.patchca:patchca:jar should not point at files within the project directory, ${project.basedir}/src/main/resources/lib/net/pusuo/patchca-0.5.0.jar will be unresolvable by dependent projects @ line 212,<br>column 25<br>[WARNING] ‘build.plugins.plugin.version’ for org.apache.maven.plugins:maven-jar-plugin is missing. @ line 316, column 21<br>[WARNING]<br>[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.<br>[WARNING]<br>[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.<br>[WARNING]<br>[INFO]<br>[INFO] ————————-&lt; org.b3log:symphony &gt;————————-<br>[INFO] Building Symphony 3.6.4<br>[INFO] ——————————–[ jar ]———————————<br>Downloading from central: <a href="https://repo.maven.apache.org/maven2/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.pom" target="_blank" rel="external">https://repo.maven.apache.org/maven2/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.pom</a><br>[INFO] ————————————————————————<br>[INFO] BUILD FAILURE<br>[INFO] ————————————————————————<br>[INFO] Total time: 2.202 s<br>[INFO] Finished at: 2022-05-03T12:45:10+08:00<br>[INFO] ————————————————————————<br>[ERROR] Plugin com.mycila:license-maven-plugin:3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.mycila:license-maven-plugin:jar:3.0: Could not transfer artifact com.mycila:license-maven-plugin:pom:3.0 from/to maven-default-http-blocker (<a href="http://0.0.0.0/" target="_blank" rel="external">http://0.0.0.0/)</a>): Blocked mirror for repositories: [aliyun (<a href="http://maven.aliyun.com/nexus/content/groups/public" target="_blank" rel="external">http://maven.aliyun.com/nexus/content/groups/public</a>, default, releases+snapshots)] -&gt; [Help 1]<br>[ERROR]<br>[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.<br>[ERROR] Re-run Maven using the -X switch to enable full debug logging.<br>[ERROR]<br>[ERROR] For more information about the errors and possible solutions, please read the following articles:</p>
+<p>##于无声处听惊雷  </p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[这个博客就是自己的自留地]]></title>
       <url>http://www.diawnu.win/2022/05/02/%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E5%B0%B1%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E7%95%99%E5%9C%B0/</url>
       <content type="html"><![CDATA[<p>#dianwu的自留地<br>3月20号计划开办网站。newGo项目建立<br>4月30号139元买下百度轻量云两年。ps:主要是狗日的腾讯又涨价了。<br>4月29无意发现滴链社区，一个8W人的小众社区。<br>用滴链全家桶搭建我设想的社区。</p>
