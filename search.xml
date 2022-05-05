@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title><![CDATA[Windows Server其实不怎么吃资源了]]></title>
+      <url>http://www.diawnu.win/2022/05/05/Windows%20Server%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%80%8E%E4%B9%88%E5%90%83%E8%B5%84%E6%BA%90%E4%BA%86/</url>
+      <content type="html"><![CDATA[<h2 id="Windows-Server-其实不怎么吃资源了。"><a href="#Windows-Server-其实不怎么吃资源了。" class="headerlink" title="Windows Server 其实不怎么吃资源了。"></a>Windows Server 其实不怎么吃资源了。</h2><p><img src="https://b3logfile.com/bing/20190913.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>整体算多消耗10%资源。（系统占资源比）</p>
+<p>内存都差不多</p>
+<p>cpu 10%多点</p>
+<p>差距最大的是硬盘多吃10多G。</p>
+<p>对于个人玩玩，操作性会弥补性能缺失</p>
+<p><img src="https://b3logfile.com/file/2022/05/dz_win2019-7c20a913.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="dzwin2019.png"></p>
+<p>1核1G 还是跑的搜搜的。</p>
+<p><img src="https://b3logfile.com/file/2022/05/dz_centos7.6-700e9780.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="dzcentos7.6.png"></p>
+<p>1核2G</p>
+<p><img src="https://b3logfile.com/file/2022/05/wp_centos7.9-9bb8d6e6.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="wpcentos7.9.png"></p>
+<p>2核4G</p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[测试目录文件夹会不会删除原有文件]]></title>
       <url>http://www.diawnu.win/2022/05/04/%E6%B5%8B%E8%AF%95%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E5%A4%B9%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%88%A0%E9%99%A4%E5%8E%9F%E6%9C%89%E6%96%87%E4%BB%B6/</url>
       <content type="html"><![CDATA[<p>为了同步文件夹<br>没有删除原有文件，没有执行clean</p>
