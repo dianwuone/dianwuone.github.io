@@ -4,6 +4,14 @@
   
     
     <entry>
+      <title><![CDATA[新建学习文件夹]]></title>
+      <url>http://www.diawnu.win/2022/05/14/study-%E6%96%B0%E5%BB%BA%E5%AD%A6%E4%B9%A0%E6%96%87%E4%BB%B6%E5%A4%B9/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[学习笔记20220513]]></title>
       <url>http://www.diawnu.win/2022/05/13/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B020220513/</url>
       <content type="html"><![CDATA[<p>自定义属性(设置/获取)<br>在HTML5中添加了data-<em>的⽅式来⾃定义属性，所谓data-</em>实际上上就是data-前缀加上⾃定义的属性名，使⽤这样的结构可以进⾏数据存<br>放。使⽤data-*可以解决⾃定义属性混乱⽆管理的现状。<br>读写⽅式</p>
