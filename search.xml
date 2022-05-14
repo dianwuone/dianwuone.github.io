@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title><![CDATA[学习笔记20220513]]></title>
+      <url>http://www.diawnu.win/2022/05/13/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B020220513/</url>
+      <content type="html"><![CDATA[<p>自定义属性(设置/获取)<br>在HTML5中添加了data-<em>的⽅式来⾃定义属性，所谓data-</em>实际上上就是data-前缀加上⾃定义的属性名，使⽤这样的结构可以进⾏数据存<br>放。使⽤data-*可以解决⾃定义属性混乱⽆管理的现状。<br>读写⽅式</p>
+<h2 id="data-有两种设置⽅式，可以直接在HTML元素标签上书写"><a href="#data-有两种设置⽅式，可以直接在HTML元素标签上书写" class="headerlink" title="data-*有两种设置⽅式，可以直接在HTML元素标签上书写"></a>data-*有两种设置⽅式，可以直接在HTML元素标签上书写</h2><p>异步加载</p>
+<p>Anguler 显示/隐式  数据绑定</p>
+<p>构造函数</p>
+<p>原型链</p>
+<p>依赖注入</p>
+<p>自定义图标/文字</p>
+<p>回调</p>
+<p>闭包</p>
+<p>改变手形</p>
+<p>首字母大写</p>
+<p>文字溢出显示省略号</p>
+<p>transition 状态过度动画</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[技术胖干货推荐]]></title>
       <url>http://www.diawnu.win/2022/05/11/%E6%8A%80%E6%9C%AF%E8%83%96%E5%B9%B2%E8%B4%A7%E6%8E%A8%E8%8D%90/</url>
       <content type="html"><![CDATA[<p>本博客由  <a href="https://github.com/88250/pipe" target="_blank" rel="external">Pipe</a>  强力驱动</p>
@@ -339,10 +360,14 @@
     <entry>
       <title><![CDATA[第一个域名]]></title>
       <url>http://www.diawnu.win/2022/04/16/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%9F%E5%90%8D/</url>
-      <content type="html"><![CDATA[<p>第一个域名</p>
-<p><strong>想想我是不是页能算个互联网老兵呢！！！</strong></p>
+      <content type="html"><![CDATA[<h1 id="dianwu-的博客"><a href="#dianwu-的博客" class="headerlink" title="dianwu 的博客"></a><a href="https://pipe.b3log.org/blogs/dianwu" target="_blank" rel="external">dianwu 的博客</a></h1><p>本博客由  <a href="https://github.com/88250/pipe" target="_blank" rel="external">Pipe</a>  强力驱动</p>
+<h2 id="想想我是不是也能算个互联网老兵呢！！！"><a href="#想想我是不是也能算个互联网老兵呢！！！" class="headerlink" title="想想我是不是也能算个互联网老兵呢！！！"></a>想想我是不是也能算个互联网老兵呢！！！</h2><p><img src="https://b3logfile.com/bing/20210829.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p><img src="https://b3logfile.com/bing/20171122.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>第一个域名</p>
+<p><img src="https://b3logfile.com/file/2022/05/1-fd3302f7.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="1.png"></p>
+<p><strong>想想我是不是也能算个互联网老兵呢！！！</strong></p>
 <p>==尊敬的DNSPod用户：==</p>
-<p>您添加的 1 个域名尚未被注册，我们将为您保留 7 天，如果 7 天后该域名仍未注册，系统将在解析列表中<del>删除</del>该域名！</p>
+<p>您添加的 1 个域名尚未被注册，我们将为您保留 7 天，如果 7 天后该域名仍未注册，系统将在解析列表中删除该域名！</p>
 <p>详细信息如下：</p>
 <table>
 <thead>
@@ -366,9 +391,9 @@
 </tr>
 </tbody>
 </table>
-<p><img src="_md_files/1.jpeg"><br>DNSPod - make your domain intelligent  </p>
-<p>本邮件由DNSPod系统自动发出，请勿直接回复！<br>如有任何问题请<a href="http://url.go4u.cn:9527/tickets" target="_blank" rel="external">提交工单</a><br>或电联：400-111-1234  </p>
+<p>本邮件由DNSPod系统自动发出，请勿直接回复！<br>如有任何问题请<a href="http://url.go4u.cn:9527/tickets" target="_blank" rel="external">提交工单</a><br>或电联：400-111-1234</p>
 <p>新浪微博：<a href="http://url.go4u.cn:9527/1a200f58e7222b3705b0be40237e496e" target="_blank" rel="external">http://weibo.com/DNSPod</a><br>腾讯微博：<a href="http://url.go4u.cn:9527/59a802c230fc37545cb60365c02a26a2" target="_blank" rel="external">http://t.qq.com/DNSPod</a></p>
+<p>##于无声处听惊雷</p>
 ]]></content>
       
         
