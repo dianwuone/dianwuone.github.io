@@ -424,8 +424,7 @@
       <title><![CDATA[第一个域名]]></title>
       <url>http://www.diawnu.win/2022/04/16/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%9F%E5%90%8D/</url>
       <content type="html"><![CDATA[<h1 id="dianwu-的博客"><a href="#dianwu-的博客" class="headerlink" title="dianwu 的博客"></a><a href="https://pipe.b3log.org/blogs/dianwu" target="_blank" rel="external">dianwu 的博客</a></h1><p>本博客由  <a href="https://github.com/88250/pipe" target="_blank" rel="external">Pipe</a>  强力驱动</p>
-<h2 id="想想我是不是也能算个互联网老兵呢！！！"><a href="#想想我是不是也能算个互联网老兵呢！！！" class="headerlink" title="想想我是不是也能算个互联网老兵呢！！！"></a>想想我是不是也能算个互联网老兵呢！！！</h2><p><img src="https://b3logfile.com/bing/20210829.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
-<p><img src="https://b3logfile.com/bing/20171122.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<h2 id="想想我是不是也能算个互联网老兵呢！！！"><a href="#想想我是不是也能算个互联网老兵呢！！！" class="headerlink" title="想想我是不是也能算个互联网老兵呢！！！"></a>想想我是不是也能算个互联网老兵呢！！！</h2><p><img src="https://b3logfile.com/bing/20171122.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
 <p>第一个域名</p>
 <p><img src="https://b3logfile.com/file/2022/05/1-fd3302f7.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="1.png"></p>
 <p><strong>想想我是不是也能算个互联网老兵呢！！！</strong></p>
@@ -465,23 +464,6 @@
             <tag> one </tag>
             
         </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://www.diawnu.win/2022/03/29/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-      
         
     </entry>
     
@@ -586,7 +568,9 @@
       <title><![CDATA[name]]></title>
       <url>http://www.diawnu.win/2017/03/07/name/</url>
       <content type="html"><![CDATA[<p></p><h1>hello world</h1><p></p>
-<p>这是第一篇博客</p><br><p>默认的第一篇博客hello world，编辑日期目前没有研究懂</p>
+<p></p><p>这是第一篇博客</p><p></p>
+<p></p><p>默认的第一篇博客hello world，编辑日期目前没有研究懂</p><p></p>
+<p>###2022年5月28日<br>以文件创建日期为发布世界。已手动设置date属性。</p>
 ]]></content>
       
         <categories>
@@ -605,6 +589,23 @@
             <tag> dianwu </tag>
             
         </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>http://www.diawnu.win/2017/03/05/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
         
     </entry>
     
