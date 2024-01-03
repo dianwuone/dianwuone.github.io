@@ -1700,7 +1700,11 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
+<<<<<<< HEAD
   background: #57130f;
+=======
+  background: #7effee;
+>>>>>>> parent of d94edce9 (dianwu)
 }
 .links-of-blogroll {
   font-size: 13px;
