@@ -4,6 +4,21 @@
   
     
     <entry>
+      <title><![CDATA[git回滚？]]></title>
+      <url>http://www.diawnu.win/2024/01/07/git%E5%9B%9E%E6%BB%9A%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>哎用hexo d 每一次都是全新的页面，都是覆盖。<br><br><br><br>用不明的源文件三思而后行。<br><br><br></p>
+<p></p><h1>另外hexo不支持高版本node，具体最高不知道我用的12.18.1</h1><p></p>
+<p></p><h2>又搞崩一次！！2024年1月2日</h2><p></p>
+<p></p><h2>不同步？2024年1月5日</h2><p></p>
+<p></p><h2>手动回滚</h2><p></p>
+<p></p><h2>拉取成功</h2><p></p>
+<p></p><h2>重新写readme</h2><p></p>
+<p>回滚最终用手动方式解决的</p>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[新建文章]]></title>
       <url>http://www.diawnu.win/2024/01/06/%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0/</url>
       <content type="html"><![CDATA[<p>新建一个文章，跟新目录！</p>
