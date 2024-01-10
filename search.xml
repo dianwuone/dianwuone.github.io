@@ -4,6 +4,103 @@
   
     
     <entry>
+      <title><![CDATA[完整的HTML标签]]></title>
+      <url>http://www.diawnu.win/2024/01/10/%E5%AE%8C%E6%95%B4%E7%9A%84HTML%E6%A0%87%E7%AD%BE/</url>
+      <content type="html"><![CDATA[<p>标签    描述<br><!--...-->    定义注释。<br>&lt;!DOCTYPE&gt;     定义文档类型。<br><a>    定义超链接。<br><abbr>    定义缩写词或首字母缩略词。</abbr></a></p>
+<p><acronym>    HTML5 中不支持。请使用 <abbr> 代替。定义首字母缩略词。</abbr></acronym></p>
+<p><address>    定义文档作者或拥有者的联系信息。</address></p>
+<p><applet>    HTML5 中不支持。请使用 <embed> 和 <object> 代替。定义嵌入式小程序。</object></applet></p>
+<p><area>    定义图像映射内部的区域。</p>
+<p><article>    定义文章。</article></p>
+<p><aside>    定义页面内容之外的内容。</aside></p>
+<p><audio>    定义嵌入的声音内容。<br><b>    定义粗体字。</b></audio></p>
+<p><base>    规定文档中所有相对 URL 的基准 URL 和/或目标。</p>
+<p><basefont>    HTML5 中不支持。请使用 CSS 代替。定义文档中文本的默认字体、颜色或尺寸。<br><bdi>    定义文本的文本方向，使其脱离其周围文本的方向设置。<br><bdo>    定义文字方向。</bdo></bdi></p>
+<p><big>    HTML5 中不支持。请使用 CSS 代替。定义大号文本。</big></p>
+<p><blockquote>    定义长的引用。</blockquote></p>
+<p><body>    定义文档的主体。<br><br>    定义简单的折行。</body></p>
+<p><button>    定义可点击的按钮。</button></p>
+<p><canvas>    用于通过脚本（通常是 JavaScript）动态绘制图形。</canvas></p>
+<p><caption>    定义表格标题。</caption></p>
+<p><center>    HTML5 中不支持。请使用 CSS 代替。定义居中的文本。<br><cite>    定义作品的标题。<br><code>    定义一段计算机代码。</code></cite></center></p>
+<p><col>    规定 <colgroup> 元素 中每列的列属性。</colgroup></p>
+<p><colgroup>    规定表格中供格式化的列组。<br><data>    添加给定内容的机器可读的翻译。</data></colgroup></p>
+<p><datalist>    规定输入控件的预定义选项列表。</datalist></p>
+<p><dd>    定义描述列表中术语的描述/值。<br><del>    定义已从文档中删除的文本。</del></dd></p>
+<p><details>    定义用户可查看或隐藏的其他详细信息。<br><dfn>    规定要在内容中定义的术语。</dfn></details></p>
+<p><dialog>    定义对话框或窗口。</dialog></p>
+<p><dir>    HTML5 中不支持。请使用 CSS 代替。定义目录列表。</dir></p>
+<p><div>    定义文档中的节（片段）。</div></p>
+<p><dl>    定义描述列表。</dl></p>
+<p><dt>    定义描述列表中的术语/名称。<br><em>    定义强调文本。</em></dt></p>
+<p><embed>    定义外部资源的容器。</p>
+<p><fieldset>    对表单中的相关元素进行分组。</fieldset></p>
+<p><figcaption>    定义 figure 元素 的标题。</figcaption></p>
+<p><figure>    规定自包含的内容。</figure></p>
+<p><font>    HTML5 中不支持。请使用 CSS 代替。定义文字的字体、尺寸和颜色。</font></p>
+<p><footer>    定义文档或小节的页脚。</footer></p>
+<p><form>    定义供用户输入的 HTML 表单。</form></p>
+<p><frame>    HTML5 中不支持。定义框架集的窗口或框架。</p>
+<p><frameset>    HTML5 中不支持。定义框架集。</frameset></p>
+<p></p><h1> to <h6>    定义 HTML 标题。<p></p>
+<p><head>    包含文档的元数据/信息。</head></p>
+<p><header>    定义文档或小节的页眉。</header></p>
+<p><hgroup>    定义标题和相关内容。</hgroup></p>
+<p><hr>    定义内容的主题变化。</p>
+<p><html>    定义 HTML 文档的根。<br><i>    定义以不同的语气或情态表达的文本部分。</i></html></p>
+<p><iframe>    定义内联框架。<br><img>    定义图像。</iframe></p>
+<p><input>    定义输入控件。<br><ins>    定义已插入到文档中的文本。<br><kbd>    定义键盘输入。</kbd></ins></p>
+<p><label>    定义 input 元素 的标注。</label></p>
+<p><legend>    定义 fieldset 元素 的标题。</legend></p>
+<p><li>    定义列表的项目。</li></p>
+<p><link>    定义文档与外部资源的关系（最常用于链接样式表）。</p>
+<p><main>    定义文档的主要内容。</main></p>
+<p><map>    定义图像映射。<br><mark>    定义应标记或突出显示的文本。</mark></map></p>
+<p><menu>    定义无序列表。</menu></p>
+<p><meta>    定义关于 HTML 文档的元数据。</p>
+<p><meter>    定义已知范围内的仪表。</meter></p>
+<p><nav>    定义导航链接。</nav></p>
+<p><noframes>    HTML5 中不支持。定义针对不支持框架的用户的替代内容。</noframes></p>
+<p><noscript>    定义针对不支持客户端脚本的用户的替代内容。</noscript></p>
+<p><object>    定义外部资源的容器。</object></p>
+<p><ol>    定义有序列表。</ol></p>
+<p><optgroup>    定义下拉列表列表中相关选项的分组。</optgroup></p>
+<p><option>    定义下拉列表中的选项。</option></p>
+<p><output>    定义计算的结果。</output></p>
+<p></p><p>    定义段落。</p>
+<p><param>    定义对象的参数。</p>
+<p><picture>    定义多个图像资源的容器。</picture></p>
+<p><pre>    定义预格式文本。</pre></p>
+<p><progress>    定义任务进度。<br><q>    定义短的引用。<br><rp>    定义在不支持 ruby 注释的浏览器中显示的内容。<br><rt>    定义字符的解释/发音（针对东亚印刷术）。<br><ruby>    定义 ruby 注释（针对东亚印刷术）。<br><s>    定义不再正确的文本。<br><samp>    定义计算机程序的样本输出。</samp></s></ruby></rt></rp></q></progress></p>
+<p><script>    定义客户端脚本。</p>
+<p><search>    定义搜索部分。</p>
+<p><section>    定义文档中的一个部分。</p>
+<p><select>    定义下拉列表。<br><small>    定义小号文本。</p>
+<p><source>    定义媒体元素（如 <video>、<audio> 和 <picture>）的多个媒体资源。<br><span>    定义文本的一部分，或文档的一部分。</p>
+<p><strike>    HTML5 中不支持。请使用 <del> 或 <s> 代替。定义加删除线文本。<br><strong>    定义重要的文本。</p>
+<p><style>    定义文档的样式信息。<br><sub>    定义下标文本。</p>
+<p><summary>    定义 <details> 元素 的可见标题。<br><sup>    定义上标文本。</p>
+<p><svg>    定义 SVG 图形的容器。</p>
+<p><table>    定义表格。</p>
+<p><tbody>    定义表格中的主体内容。</p>
+<p><td>    定义表格中的单元。</p>
+<p><template>    定义用作容纳页面加载时隐藏内容的容器。</p>
+<p><textarea>    定义多行的文本输入控件。</p>
+<p><tfoot>    定义表格中的表注内容（脚注）。</p>
+<p><th>    定义表格中的表头单元格。</p>
+<p><thead>    定义表格中的表头内容。<br><time>    定义日期/时间。</p>
+<p><title>    定义文档的标题。</p>
+<p><tr>    定义表格中的行。</p>
+<p><track>    定义用在媒体播放器中的文本轨道。</p>
+<p><tt>    HTML5 中不支持。请使用 CSS 代替。定义打字机文本。<br><u>    定义未明确表达且样式与普通文本不同的文本。</p>
+<p><ul>    定义无序列表。<br><var>    定义变量。</p>
+<p><video>    定义嵌入的视频内容。<br><wbr>    定义可能的换行符。</p>
+</script></p></h6></h1>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[hexo升级？]]></title>
       <url>http://www.diawnu.win/2024/01/09/hexo%E5%8D%87%E7%BA%A7%EF%BC%9F/</url>
       <content type="html"><![CDATA[<p>最新的不显示版本号了？<br>之前的是3.2.2<br>把node降了！！！</p>
