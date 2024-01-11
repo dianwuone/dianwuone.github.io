@@ -4,6 +4,350 @@
   
     
     <entry>
+      <title><![CDATA[DIVandCSS命名建议]]></title>
+      <url>http://www.diawnu.win/2024/01/11/DIVandCSS%E5%91%BD%E5%90%8D%E5%BB%BA%E8%AE%AE/</url>
+      <content type="html"><![CDATA[<h3 id="一、命名规则说明"><a href="#一、命名规则说明" class="headerlink" title="一、命名规则说明"></a>一、命名规则说明</h3><pre><code>1）、所有的命名最好都小写\
+2）、属性的值一定要用双引号(&quot;&quot;)括起来，且一定要有值如class\=&quot;divcss5&quot;,id\=&quot;divcss5&quot;\
+3）、每个标签都要有开始和结束，且要有正确的层次，排版有规律工整\
+4）、空元素要有结束的tag或于开始的tag后加上&quot;/&quot;\
+5）、表现与结构完全分离，代码中不涉及任何的表现元素，如style、font、bgColor、border等\
+6）、\&lt;h1&gt;到\&lt;h6&gt;的定义，应遵循从大到小的原则，体现文档的结构，并有利于搜索引擎的查询。\
+7）、给每一个表格和表单加上一个唯一的、结构标记id\
+8）、给图片加上alt标签\
+9）、尽量使用英文命名原则\
+10）、尽量不缩写，除非一看就明白的单词
+</code></pre><h3 id="三、DIV-CSS命名参考表"><a href="#三、DIV-CSS命名参考表" class="headerlink" title="三、DIV+CSS命名参考表"></a>三、DIV+CSS命名参考表</h3><p>以下为CSS样式命名与css文件命名参考表，DIV CSS命名集合：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">#wrapper</th>
+<th style="text-align:left">页面外围控制整体布局宽度</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">#container或#content</td>
+<td style="text-align:left">容器,用于最外层</td>
+</tr>
+<tr>
+<td style="text-align:left">#layout</td>
+<td style="text-align:left">布局</td>
+</tr>
+<tr>
+<td style="text-align:left">#head, #header</td>
+<td style="text-align:left">页头部分</td>
+</tr>
+<tr>
+<td style="text-align:left">#foot, #footer</td>
+<td style="text-align:left">页脚部分</td>
+</tr>
+<tr>
+<td style="text-align:left">#nav</td>
+<td style="text-align:left">主导航</td>
+</tr>
+<tr>
+<td style="text-align:left">#subnav</td>
+<td style="text-align:left">二级导航</td>
+</tr>
+<tr>
+<td style="text-align:left">#menu</td>
+<td style="text-align:left">菜单</td>
+</tr>
+<tr>
+<td style="text-align:left">#submenu</td>
+<td style="text-align:left">子菜单</td>
+</tr>
+<tr>
+<td style="text-align:left">#sideBar</td>
+<td style="text-align:left">侧栏</td>
+</tr>
+<tr>
+<td style="text-align:left">#sidebar_a, #sidebar_b</td>
+<td style="text-align:left">左边栏或右边栏</td>
+</tr>
+<tr>
+<td style="text-align:left">#main</td>
+<td style="text-align:left">页面主体</td>
+</tr>
+<tr>
+<td style="text-align:left">#tag</td>
+<td style="text-align:left">标签</td>
+</tr>
+<tr>
+<td style="text-align:left">#msg #message</td>
+<td style="text-align:left">提示信息</td>
+</tr>
+<tr>
+<td style="text-align:left">#tips</td>
+<td style="text-align:left">小技巧</td>
+</tr>
+<tr>
+<td style="text-align:left">#vote</td>
+<td style="text-align:left">投票</td>
+</tr>
+<tr>
+<td style="text-align:left">#friendlink</td>
+<td style="text-align:left">友情连接</td>
+</tr>
+<tr>
+<td style="text-align:left">#title</td>
+<td style="text-align:left">标题</td>
+</tr>
+<tr>
+<td style="text-align:left">#summary</td>
+<td style="text-align:left">摘要</td>
+</tr>
+<tr>
+<td style="text-align:left">#loginbar</td>
+<td style="text-align:left">登录条</td>
+</tr>
+<tr>
+<td style="text-align:left">#searchInput</td>
+<td style="text-align:left">搜索输入框</td>
+</tr>
+<tr>
+<td style="text-align:left">#hot</td>
+<td style="text-align:left">热门热点</td>
+</tr>
+<tr>
+<td style="text-align:left">#search</td>
+<td style="text-align:left">搜索</td>
+</tr>
+<tr>
+<td style="text-align:left">#search_output</td>
+<td style="text-align:left">搜索输出和搜索结果相似</td>
+</tr>
+<tr>
+<td style="text-align:left">#searchBar</td>
+<td style="text-align:left">搜索条</td>
+</tr>
+<tr>
+<td style="text-align:left">#search_results</td>
+<td style="text-align:left">搜索结果</td>
+</tr>
+<tr>
+<td style="text-align:left">#copyright</td>
+<td style="text-align:left">版权信息</td>
+</tr>
+<tr>
+<td style="text-align:left">#branding</td>
+<td style="text-align:left">商标</td>
+</tr>
+<tr>
+<td style="text-align:left">#logo</td>
+<td style="text-align:left">网站LOGO标志</td>
+</tr>
+<tr>
+<td style="text-align:left">#siteinfo</td>
+<td style="text-align:left">网站信息</td>
+</tr>
+<tr>
+<td style="text-align:left">#siteinfoLegal</td>
+<td style="text-align:left">法律声明</td>
+</tr>
+<tr>
+<td style="text-align:left">#siteinfoCredits</td>
+<td style="text-align:left">信誉</td>
+</tr>
+<tr>
+<td style="text-align:left">#joinus</td>
+<td style="text-align:left">加入我们</td>
+</tr>
+<tr>
+<td style="text-align:left">#partner</td>
+<td style="text-align:left">合作伙伴</td>
+</tr>
+<tr>
+<td style="text-align:left">#service</td>
+<td style="text-align:left">服务</td>
+</tr>
+<tr>
+<td style="text-align:left">#regsiter</td>
+<td style="text-align:left">注册</td>
+</tr>
+<tr>
+<td style="text-align:left">arr/arrow</td>
+<td style="text-align:left">箭头</td>
+</tr>
+<tr>
+<td style="text-align:left">#guild</td>
+<td style="text-align:left">指南</td>
+</tr>
+<tr>
+<td style="text-align:left">#sitemap</td>
+<td style="text-align:left">网站地图</td>
+</tr>
+<tr>
+<td style="text-align:left">#list</td>
+<td style="text-align:left">列表</td>
+</tr>
+<tr>
+<td style="text-align:left">#homepage</td>
+<td style="text-align:left">首页</td>
+</tr>
+<tr>
+<td style="text-align:left">#subpage</td>
+<td style="text-align:left">二级页面子页面</td>
+</tr>
+<tr>
+<td style="text-align:left">#tool, #toolbar</td>
+<td style="text-align:left">工具条</td>
+</tr>
+<tr>
+<td style="text-align:left">#drop</td>
+<td style="text-align:left">下拉</td>
+</tr>
+<tr>
+<td style="text-align:left">#dorpmenu</td>
+<td style="text-align:left">下拉菜单</td>
+</tr>
+<tr>
+<td style="text-align:left">#status</td>
+<td style="text-align:left">状态</td>
+</tr>
+<tr>
+<td style="text-align:left">#scroll</td>
+<td style="text-align:left">滚动</td>
+</tr>
+<tr>
+<td style="text-align:left">.tab</td>
+<td style="text-align:left">标签页</td>
+</tr>
+<tr>
+<td style="text-align:left">.left .right .center</td>
+<td style="text-align:left">居左、中、右</td>
+</tr>
+<tr>
+<td style="text-align:left">.news</td>
+<td style="text-align:left">新闻</td>
+</tr>
+<tr>
+<td style="text-align:left">.download</td>
+<td style="text-align:left">下载</td>
+</tr>
+<tr>
+<td style="text-align:left">.banner</td>
+<td style="text-align:left">广告条(顶部广告条)</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">.products</td>
+<td style="text-align:left">产品</td>
+</tr>
+<tr>
+<td style="text-align:left">.products_prices</td>
+<td style="text-align:left">产品价格</td>
+</tr>
+<tr>
+<td style="text-align:left">.products_description</td>
+<td style="text-align:left">产品描述</td>
+</tr>
+<tr>
+<td style="text-align:left">.products_review</td>
+<td style="text-align:left">产品评论</td>
+</tr>
+<tr>
+<td style="text-align:left">.editor_review</td>
+<td style="text-align:left">编辑评论</td>
+</tr>
+<tr>
+<td style="text-align:left">.news_release</td>
+<td style="text-align:left">最新产品</td>
+</tr>
+<tr>
+<td style="text-align:left">.publisher</td>
+<td style="text-align:left">生产商</td>
+</tr>
+<tr>
+<td style="text-align:left">.screenshot</td>
+<td style="text-align:left">缩略图</td>
+</tr>
+<tr>
+<td style="text-align:left">.faqs</td>
+<td style="text-align:left">常见问题</td>
+</tr>
+<tr>
+<td style="text-align:left">.keyword</td>
+<td style="text-align:left">关键词</td>
+</tr>
+<tr>
+<td style="text-align:left">.blog</td>
+<td style="text-align:left">博客</td>
+</tr>
+<tr>
+<td style="text-align:left">.forum</td>
+<td style="text-align:left">论坛</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>CSS文件命名</strong></th>
+<th style="text-align:left"><strong>说明</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">master.css,style.css</td>
+<td style="text-align:left">主要的</td>
+</tr>
+<tr>
+<td style="text-align:left">module.css</td>
+<td style="text-align:left">模块</td>
+</tr>
+<tr>
+<td style="text-align:left">base.css</td>
+<td style="text-align:left">基本共用</td>
+</tr>
+<tr>
+<td style="text-align:left">layout.css</td>
+<td style="text-align:left">布局，版面</td>
+</tr>
+<tr>
+<td style="text-align:left">themes.css</td>
+<td style="text-align:left">主题</td>
+</tr>
+<tr>
+<td style="text-align:left">columns.css</td>
+<td style="text-align:left">专栏</td>
+</tr>
+<tr>
+<td style="text-align:left">font.css</td>
+<td style="text-align:left">文字、字体</td>
+</tr>
+<tr>
+<td style="text-align:left">forms.css</td>
+<td style="text-align:left">表单</td>
+</tr>
+<tr>
+<td style="text-align:left">mend.css</td>
+<td style="text-align:left">补丁</td>
+</tr>
+<tr>
+<td style="text-align:left">print.css</td>
+<td style="text-align:left">打印</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CSS命名其它说明:</strong></p>
+<p><strong>DIV+CSS命名小结</strong>：无论是使用“.”（小写句号）选择符号开头命名，还是使用“#”(井号)选择符号开头命名都无所谓，但我们最好遵循，<strong>主要的</strong>、<strong>重要的</strong>、<strong>特殊的</strong>、<strong>最外层的</strong>盒子用“#”(井号)选择符号开头命名，其它都用“.”（小写句号）选择符号开头命名，同时考虑命名的<a href="http://www.divcss5.com/rumen/r61.shtml" title="http://www.divcss5.com/rumen/r61.shtml" target="_blank" rel="external">CSS选择器</a>在HTML中重复使用调用。</p>
+<p>通常我们最常用主要命名有：wrap（外套、最外层）、header（页眉、头部）、nav(导航条)、menu(菜单)、title(栏目标题、一般配合h1\h2\h3\h4标签使用)、content (内容区)、footer(页脚、底部)、logo（标志、可以配合h1标签使用）、banner（广告条，一般在顶部）、copyRight（版权）。其它可根据自己需要选择性使用。</p>
+<p><strong>建议：</strong>主要的、重要的、最外层的盒子用“#”(井号)选择符号开头命名，其它都用“.”（小写句号）选择符号开头命名。</p>
+<p><strong>2.</strong><a href="http://www.divcss5.com/rumen/r29.shtml" title="http://www.divcss5.com/rumen/r29.shtml" target="_blank" rel="external">CSS样式</a><strong>文件命名如下 \
+ </strong>\<br> 主要的 master.css \<br> 布局，版面 layout.css \<br> 专栏 columns.css \<br> 文字 font.css \<br> 打印样式 print.css \<br> 主题 themes.css</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[完整的HTML标签]]></title>
       <url>http://www.diawnu.win/2024/01/10/%E5%AE%8C%E6%95%B4%E7%9A%84HTML%E6%A0%87%E7%AD%BE/</url>
       <content type="html"><![CDATA[<p>标签    描述<br><!--...-->    定义注释。<br>&lt;!DOCTYPE&gt;     定义文档类型。<br><a>    定义超链接。<br><abbr>    定义缩写词或首字母缩略词。</abbr></a></p>
