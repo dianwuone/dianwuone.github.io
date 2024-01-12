@@ -4,6 +4,21 @@
   
     
     <entry>
+      <title><![CDATA[HTML+CSS+JAVASCRIPT]]></title>
+      <url>http://www.diawnu.win/2024/01/12/HTML-CSS-JAVASCRIPT/</url>
+      <content type="html"><![CDATA[<h3 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h3><p>css兼容性、私有属性<br>    谷歌浏览器：-webkit-<br>    火狐浏览器：-moz-<br>    IE浏览器：-ms-<br>    Opera 浏览器： -o-<br>    苹果浏览器：-wenkit-<br>ps？<br>span标签、行内<br>name 描点<br>初始化、浏览器自带格式<br>    样式的预设：<br>    body,h1,h2,h3,h4,h5,h6,p,ul,li,input,option,textarea,dl,dt,dd{ margin:0;padding:0; }   填充、边距<br>    Ul { list-style:none; }//取消点的<br>    img{border:none;}//三象数<br>    a{ text-decoration:none; }//变色</p>
+<h3 id="相对定位、绝对定位"><a href="#相对定位、绝对定位" class="headerlink" title="相对定位、绝对定位"></a>相对定位、绝对定位</h3><p>px，em ？<br>1、new 构造函数</p>
+<p>var obj=new Object（）</p>
+<p>###C冒泡阶段、委派、默认事件</p>
+<p>箭头函数 作用域 let console<br>http+icp/ip 等通信协议</p>
+<p>原型<em>原型链</em>继承</p>
+<p>块级作用域、函数作用域</p>
+<h3 id="let"><a href="#let" class="headerlink" title="let"></a>let</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[DIVandCSS命名建议]]></title>
       <url>http://www.diawnu.win/2024/01/11/DIVandCSS%E5%91%BD%E5%90%8D%E5%BB%BA%E8%AE%AE/</url>
       <content type="html"><![CDATA[<h3 id="一、命名规则说明"><a href="#一、命名规则说明" class="headerlink" title="一、命名规则说明"></a>一、命名规则说明</h3><pre><code>1）、所有的命名最好都小写\
