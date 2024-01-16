@@ -4,6 +4,16 @@
   
     
     <entry>
+      <title><![CDATA[16周基础第一遍]]></title>
+      <url>http://www.diawnu.win/2024/01/16/16%E5%91%A8%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%B8%80%E9%81%8D/</url>
+      <content type="html"><![CDATA[<p>一周时间<br>前端三件套<br>html+css+js</p>
+<p>python<br>国考<br>liunx<br>炒作系统<br>c++</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[HTML+CSS+JAVASCRIPT]]></title>
       <url>http://www.diawnu.win/2024/01/12/HTML-CSS-JAVASCRIPT/</url>
       <content type="html"><![CDATA[<h3 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h3><p>css兼容性、私有属性<br>    谷歌浏览器：-webkit-<br>    火狐浏览器：-moz-<br>    IE浏览器：-ms-<br>    Opera 浏览器： -o-<br>    苹果浏览器：-wenkit-<br>ps？<br>span标签、行内<br>name 描点<br>初始化、浏览器自带格式<br>    样式的预设：<br>    body,h1,h2,h3,h4,h5,h6,p,ul,li,input,option,textarea,dl,dt,dd{ margin:0;padding:0; }   填充、边距<br>    Ul { list-style:none; }//取消点的<br>    img{border:none;}//三象数<br>    a{ text-decoration:none; }//变色</p>
