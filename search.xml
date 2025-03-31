@@ -4,10 +4,18 @@
   
     
     <entry>
+      <title><![CDATA[重置]]></title>
+      <url>http://www.diawnu.win/2025/03/31/%E9%87%8D%E7%BD%AE/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[最新版本node兼容hexo]]></title>
       <url>http://www.diawnu.win/2025/03/31/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%ACnode%E5%85%BC%E5%AE%B9hexo/</url>
       <content type="html"><![CDATA[<h3 id="安装了最新20版本node"><a href="#安装了最新20版本node" class="headerlink" title="安装了最新20版本node"></a>安装了最新20版本node</h3><h3 id="观察hexo是否报错"><a href="#观察hexo是否报错" class="headerlink" title="观察hexo是否报错"></a>观察hexo是否报错</h3><h3 id="报错了，就卸载最新版本，安装12-18-1版本"><a href="#报错了，就卸载最新版本，安装12-18-1版本" class="headerlink" title="报错了，就卸载最新版本，安装12.18.1版本"></a>报错了，就卸载最新版本，安装12.18.1版本</h3><p>为了安装vue升级node<br>本地运行服务没有问题。现在推送到github上，观察是否报错。<br>报错了，就卸载最新版本，安装12.18.1版本（显示白板）为什么？</p>
-]]></content>
+<h3 id="需要新建一个页面重新构建"><a href="#需要新建一个页面重新构建" class="headerlink" title="需要新建一个页面重新构建"></a>需要新建一个页面重新构建</h3>]]></content>
       
         
     </entry>
