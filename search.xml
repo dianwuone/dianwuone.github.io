@@ -4,9 +4,30 @@
   
     
     <entry>
+      <title><![CDATA[第一行代码]]></title>
+      <url>http://www.diawnu.win/2025/04/01/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81/</url>
+      <content type="html"><![CDATA[<p>hope      核心功能文件<br>old         历史版本文件<br>service    服务端文件<br>user        客户端</p>
+<h3 id="v0-0-1"><a href="#v0-0-1" class="headerlink" title="v0.0.1"></a>v0.0.1</h3><p>完成前端框架搭建 </p>
+<blockquote>
+<p>半透明背景和背景色一样的字体颜色<br>完成打包部署</p>
+<h3 id="v0-0-2"><a href="#v0-0-2" class="headerlink" title="v0.0.2"></a>v0.0.2</h3><p>通过百度baidu comate完整构建<br>每一次运行会得到不同结果、优化描述词会得到更准确的结果<br>错误信息显示正则表达式搜索字符串 /supportedTSExtensions = .*(?=;)/ 没有找到匹配项。让我来帮您解决这个问题。<br>更换打包工具<br>我已经成功将项目的打包工具从 Vite 更换为了基于 Webpack 的 Vue CLi。还是错误。。。。（回滚初始化）<br>新增tsconfig.json文件打包成功。。。。</p>
+<h3 id="2025年4月3日"><a href="#2025年4月3日" class="headerlink" title="2025年4月3日"></a>2025年4月3日</h3><p>安装数据库、三小时（安装成功）<br>安装成功<br>数据库连接成功<br>安装管理软件dbeaver、新建测试users表</p>
+<h3 id="2025年4月4日"><a href="#2025年4月4日" class="headerlink" title="2025年4月4日"></a>2025年4月4日</h3><p>跨域登录问题。代理不生效<br>添加跨域功能，又出现图片问题</p>
+<h3 id="2025年4月7日"><a href="#2025年4月7日" class="headerlink" title="2025年4月7日"></a>2025年4月7日</h3><p>百度智能体免费t comate 额度用完。。。<br>切换到trae<br>v0.0.3<br>完成说明文档编制。<br>采用trae，chat免费版最小化demo<br>初始化项目、切换国内镜像<br>第一小版数据库链接一直不成功？重新初始化项目。<br>第二小版成功。</p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[重置]]></title>
       <url>http://www.diawnu.win/2025/03/31/%E9%87%8D%E7%BD%AE/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p>开发正规化、流程化</p>
+<blockquote>
+<p>添加表单后路由报错，改不回来了也没有git<br>重启大法好</p>
+</blockquote>
+]]></content>
       
         
     </entry>
