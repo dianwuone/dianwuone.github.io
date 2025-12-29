@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[为题排查]]></title>
+      <url>http://www.diawnu.win/2025/12/29/%E4%B8%BA%E9%A2%98%E6%8E%92%E6%9F%A5/</url>
+      <content type="html"><![CDATA[<h3 id="认真排查问题。"><a href="#认真排查问题。" class="headerlink" title="认真排查问题。"></a>认真排查问题。</h3><h4 id="blog白板以为是网络问题，结果是编译问题"><a href="#blog白板以为是网络问题，结果是编译问题" class="headerlink" title="blog白板以为是网络问题，结果是编译问题"></a>blog白板以为是网络问题，结果是编译问题</h4><blockquote>
+<p>有概念没头绪？<br>还是版本问题？线上版本node过高！</p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[2025年终总结]]></title>
+      <url>http://www.diawnu.win/2025/12/20/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</url>
+      <content type="html"><![CDATA[<h2 id="2025年终总结"><a href="#2025年终总结" class="headerlink" title="2025年终总结"></a>2025年终总结</h2><h3 id="流水"><a href="#流水" class="headerlink" title="流水"></a>流水</h3><ul>
+<li>一月ai大爆发、2月希望涨工资、3月到工地做监理、4月到黄甲、5月到9月一建、10月平11月安管C2、12月平结。<h3 id="明年计划"><a href="#明年计划" class="headerlink" title="明年计划"></a>明年计划</h3></li>
+<li>土建监理、一建机电、二建机电、小程序500人。副业稳定收入。<h3 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h3></li>
+<li>平平淡淡的一年。有计划的十年？被疫情裹挟的5年！</li>
+<li>陪伴少了一半！</li>
+<li>如何平衡相关身份的关系<h3 id="未来可期-加油-！！！"><a href="#未来可期-加油-！！！" class="headerlink" title="未来可期 加油 ！！！"></a>未来可期 加油 ！！！</h3></li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 2025 总结 一建 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[阶段性目标缺失]]></title>
+      <url>http://www.diawnu.win/2025/04/24/%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9B%AE%E6%A0%87%E7%BC%BA%E5%A4%B1/</url>
+      <content type="html"><![CDATA[<p>2025年4月24日</p>
+<h3 id="阶段性目标缺失"><a href="#阶段性目标缺失" class="headerlink" title="阶段性目标缺失"></a>阶段性目标缺失</h3><h4 id="完成版本0-0-9发现和自己预想差距过大。"><a href="#完成版本0-0-9发现和自己预想差距过大。" class="headerlink" title="完成版本0.0.9发现和自己预想差距过大。"></a>完成版本0.0.9发现和自己预想差距过大。</h4><h4 id="加上资金问题"><a href="#加上资金问题" class="headerlink" title="加上资金问题"></a>加上资金问题</h4><h4 id="小孩读书。"><a href="#小孩读书。" class="headerlink" title="小孩读书。"></a>小孩读书。</h4><p>如何才能持续高效完成任务。sop</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第一行代码]]></title>
+      <url>http://www.diawnu.win/2025/04/01/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81/</url>
+      <content type="html"><![CDATA[<p>hope      核心功能文件<br>old         历史版本文件<br>service    服务端文件<br>user        客户端</p>
+<h3 id="2025年4月1日"><a href="#2025年4月1日" class="headerlink" title="2025年4月1日"></a>2025年4月1日</h3><h4 id="v0-0-1"><a href="#v0-0-1" class="headerlink" title="v0.0.1"></a>v0.0.1</h4><p>完成前端框架搭建 </p>
+<blockquote>
+<p>半透明背景和背景色一样的字体颜色<br>完成打包部署</p>
+<h4 id="v0-0-2"><a href="#v0-0-2" class="headerlink" title="v0.0.2"></a>v0.0.2</h4><p>通过百度baidu comate完整构建<br>每一次运行会得到不同结果、优化描述词会得到更准确的结果<br>错误信息显示正则表达式搜索字符串 /supportedTSExtensions = .*(?=;)/ 没有找到匹配项。让我来帮您解决这个问题。<br>更换打包工具<br>我已经成功将项目的打包工具从 Vite 更换为了基于 Webpack 的 Vue CLi。还是错误。。。。（回滚初始化）<br>新增tsconfig.json文件打包成功。。。。</p>
+<h3 id="2025年4月3日"><a href="#2025年4月3日" class="headerlink" title="2025年4月3日"></a>2025年4月3日</h3><p>安装数据库、三小时（安装成功）<br>安装成功<br>数据库连接成功<br>安装管理软件dbeaver、新建测试users表</p>
+<h3 id="2025年4月4日"><a href="#2025年4月4日" class="headerlink" title="2025年4月4日"></a>2025年4月4日</h3><p>跨域登录问题。代理不生效<br>添加跨域功能，又出现图片问题</p>
+<h3 id="2025年4月7日"><a href="#2025年4月7日" class="headerlink" title="2025年4月7日"></a>2025年4月7日</h3><p>百度智能体免费t comate 额度用完。。。<br>切换到trae</p>
+<h4 id="v0-0-3"><a href="#v0-0-3" class="headerlink" title="v0.0.3"></a>v0.0.3</h4><p>完成说明文档编制。<br>采用trae，chat免费版最小化demo<br>初始化项目、切换国内镜像<br>第一小版数据库链接一直不成功？重新初始化项目。<br>第二小版成功。（添加虚拟环境，解决跨域问题，遗留老环境、没有检查发现Flask 3.0.2的send_static_file实际上是Flask实例方法而非模块级函数，需要修改代码调用方式。现在将app.py中的send_static_file调用改为通过Flask应用实例调用。）<br>首页添加模态层破坏原有结构，导致页面错乱。<br>serves 单独服务数据库一直不成功？报500错误（数据库没有数据）？。。。共用一个数据库。<br>报500 应该是路径问题，最后ai设置绝对路径解决。。。哈哈</p>
+<h3 id="2025年4月8日"><a href="#2025年4月8日" class="headerlink" title="2025年4月8日"></a>2025年4月8日</h3><h4 id="v0-0-4"><a href="#v0-0-4" class="headerlink" title="v0.0.4"></a>v0.0.4</h4><p>人生A4。生辰应用仿写。<br>一个瀑布流ui<br>node版本问题，依赖一直装不上。ai最后装上了。<br>版本过高启动一直失败。换到低版本启动成功。<br>基础页面搭建完成。</p>
+<h3 id="2025年4月9日"><a href="#2025年4月9日" class="headerlink" title="2025年4月9日"></a>2025年4月9日</h3><h4 id="v0-0-5"><a href="#v0-0-5" class="headerlink" title="v0.0.5"></a>v0.0.5</h4><p>本地数据库和electron小demo连接成功。打包成功，但是本地数据库连接失败。<br>在线版本可以运行-本地数据库连接成功。</p>
+<h3 id="2025年4月10日"><a href="#2025年4月10日" class="headerlink" title="2025年4月10日"></a>2025年4月10日</h3><p>依赖镜像、c++环境变量。trae不能之调用<br>又一次归零、10天了项目还没有上线。</p>
+<h4 id="v0-0-6"><a href="#v0-0-6" class="headerlink" title="v0.0.6"></a>v0.0.6</h4><p>最小可发布版本</p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[重置]]></title>
+      <url>http://www.diawnu.win/2025/03/31/%E9%87%8D%E7%BD%AE/</url>
+      <content type="html"><![CDATA[<p>开发正规化、流程化</p>
+<blockquote>
+<p>添加表单后路由报错，改不回来了也没有git<br>重启大法好</p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[最新版本node兼容hexo]]></title>
+      <url>http://www.diawnu.win/2025/03/31/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%ACnode%E5%85%BC%E5%AE%B9hexo/</url>
+      <content type="html"><![CDATA[<h3 id="安装了最新20版本node"><a href="#安装了最新20版本node" class="headerlink" title="安装了最新20版本node"></a>安装了最新20版本node</h3><h3 id="观察hexo是否报错"><a href="#观察hexo是否报错" class="headerlink" title="观察hexo是否报错"></a>观察hexo是否报错</h3><h3 id="报错了，就卸载最新版本，安装12-18-1版本"><a href="#报错了，就卸载最新版本，安装12-18-1版本" class="headerlink" title="报错了，就卸载最新版本，安装12.18.1版本"></a>报错了，就卸载最新版本，安装12.18.1版本</h3><p>为了安装vue升级node<br>本地运行服务没有问题。现在推送到github上，观察是否报错。<br>报错了，就卸载最新版本，安装12.18.1版本（显示白板）为什么？</p>
+<h3 id="需要新建一个页面重新构建"><a href="#需要新建一个页面重新构建" class="headerlink" title="需要新建一个页面重新构建"></a>需要新建一个页面重新构建</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[副业执行中]]></title>
+      <url>http://www.diawnu.win/2025/03/20/%E5%89%AF%E4%B8%9A%E6%89%A7%E8%A1%8C%E4%B8%AD/</url>
+      <content type="html"><![CDATA[<h3 id="副业执行中"><a href="#副业执行中" class="headerlink" title="副业执行中"></a>副业执行中</h3><p>晚上千条路，早上走原路</p>
+<h4 id="1-学习"><a href="#1-学习" class="headerlink" title="1. 学习"></a>1. 学习</h4><ol>
+<li>学习了一些前端的知识，包括HTML、CSS、JavaScript、Vue、React等。</li>
+<li>学习了一些Python的知识，包括Python基础、爬虫、数据分析等。</li>
+<li>学习了一些Linux的知识，包括Linux基础、Shell脚本、服务器管理等。  </li>
+<li>学习了一些Git的知识，包括Git基础、Git工作流程、Git命令等。</li>
+<li>学习了一些Docker的知识，包括Docker基础、Docker容器、Docker镜像等。</li>
+<li>学习了一些Kubernetes的知识，包括Kubernetes基础、Kubernetes集群、Kubernetes服务等。</li>
+<li>学习了一些Linux的知识，包括Linux基础、Shell脚本、服务器管理等。<h4 id="2-工作"><a href="#2-工作" class="headerlink" title="2. 工作"></a>2. 工作</h4>快速迭代，demo</li>
+</ol>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[AI职业规划]]></title>
+      <url>http://www.diawnu.win/2025/03/18/AI%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</url>
+      <content type="html"><![CDATA[<h3 id="2025年3月18日"><a href="#2025年3月18日" class="headerlink" title="2025年3月18日"></a>2025年3月18日</h3><p>多平台：<br>1、deepseek<br>结合销售经验与技术能力，逐步转型为技术与管理复合型人才，最终实现从执行层到战略层的跨越，目标岗位为技术总监、咨询公司合伙人或创业者，深耕成都市场，聚焦医疗信息化、智能科技或金融科技领域。<br>3、文心一言<br>    以下是根据您的简历和行业趋势，为您制定的未来10年职业规划方案，结合您的销售、技术跨界能力和职业兴趣，分为三个阶段实施：</p>
+<h3 id="一、短期目标（1-3年）：技术深耕与资质升级"><a href="#一、短期目标（1-3年）：技术深耕与资质升级" class="headerlink" title="一、短期目标（1-3年）：技术深耕与资质升级"></a><strong>一、短期目标（1-3年）：技术深耕与资质升级</strong></h3><p><strong>行动方向：</strong></p>
+<ol>
+<li><p><strong>监理员→智慧工程转型</strong>  </p>
+<ul>
+<li>在现有监理员岗位上积累工程管理经验，同步学习BIM（建筑信息模型）技术，考取BIM建模师证书，向智慧工程领域过渡。</li>
+<li>参与1-2个医疗信息化或智慧农业项目（如您曾接触的903医院项目），将前端技术（Vue.js）与医疗数据可视化结合，形成差异化竞争力。</li>
+</ul>
+</li>
+<li><p><strong>前端技术→商业应用落地</strong>  </p>
+<ul>
+<li>开发1-2个销售工具类小程序（如客户管理CRM），将Python数据分析与前端交互结合，提升销售效率，形成可复用的技术产品。</li>
+<li>考取PMP项目管理认证，强化从“销售执行”到“技术项目管理”的转型资本。</li>
+</ul>
+</li>
+</ol>
+<h3 id="二、中期目标（4-7年）：跨界融合与领域突破"><a href="#二、中期目标（4-7年）：跨界融合与领域突破" class="headerlink" title="二、中期目标（4-7年）：跨界融合与领域突破"></a><strong>二、中期目标（4-7年）：跨界融合与领域突破</strong></h3><p><strong>行动方向：</strong></p>
+<ol>
+<li><p><strong>技术型销售专家</strong>  </p>
+<ul>
+<li>加入医疗科技或工业互联网企业，担任“技术售前顾问”，利用前端技术快速响应客户需求，设计原型方案（如用React搭建工业设备监控界面）。</li>
+<li>建立行业资源网络，重点拓展成都本地医疗/制造业协会资源，年均对接30+企业决策层。</li>
+</ul>
+</li>
+<li><p><strong>智慧农业创新试点</strong>  </p>
+<ul>
+<li>结合渔业养殖系统销售经验，与农业研究院合作开发“AI养殖决策系统”，整合传感器数据+前端可视化，形成可复制的农业解决方案。</li>
+<li>申请1-2项实用型专利（如基于Vue.js的农业数据看板系统），提升行业话语权。</li>
+</ul>
+</li>
+</ol>
+<h3 id="三、长期目标（8-10年）：生态构建与价值裂变"><a href="#三、长期目标（8-10年）：生态构建与价值裂变" class="headerlink" title="三、长期目标（8-10年）：生态构建与价值裂变"></a><strong>三、长期目标（8-10年）：生态构建与价值裂变</strong></h3><p><strong>行动方向：</strong></p>
+<ol>
+<li><p><strong>行业赋能者</strong>  </p>
+<ul>
+<li>成立“技术商业化咨询工作室”，为传统企业提供“销售+技术”双轮驱动转型方案，年均服务5+企业，单客价值超50万元。</li>
+<li>开发在线课程《前端技术赋能销售实战》，结合您跨领域经验，打造个人IP。</li>
+</ul>
+</li>
+<li><p><strong>智慧产业投资</strong>  </p>
+<ul>
+<li>聚焦成渝双城经济圈，投资2-3家早期硬科技企业（如医疗机器人、农业传感器），利用您的技术判断力和客户资源加速其商业化。</li>
+<li>与高校共建“产教融合实验室”，培养既懂技术又懂市场的复合型人才，反哺您的业务生态。</li>
+</ul>
+</li>
+</ol>
+<h3 id="执行建议"><a href="#执行建议" class="headerlink" title="执行建议"></a><strong>执行建议</strong></h3><ol>
+<li><strong>每年技能迭代</strong>：保持每年1项新技术学习（如今年主攻Three.js数据可视化，明年研究边缘计算），通过GitHub开源项目积累代码库。</li>
+<li><strong>行业峰会参与</strong>：定期参加智博会、医博会等行业展会，建立跨界人脉圈，年均新增有效人脉30+。</li>
+<li><strong>风险控制</strong>：在技术创业阶段，保留20%精力在原销售岗位，确保现金流稳定。</li>
+</ol>
+<p>该规划将您的销售经验、技术能力和成都本地资源充分融合，通过“技术赋能销售→销售反哺技术”的闭环，逐步构建难以被替代的跨界竞争力。建议每半年复盘一次进度，动态调整资源投入方向。<br>4、豆包</p>
+<p>5、纳米<br>     pie<br>    title 核心竞争力构成<br>    “销售能力（客户开发/标书撰写/业绩达成）” : 40<br>    “技术转化能力（Web前端/项目落地）” : 30<br>    “管理经验（团队建设/渠道维护）” : 20<br>    “行业资源（医疗/农业/金融）” : 10<br>    建议每18个月对照此规划进行PDCA循环改进，特别注意2026年（35岁）、2029年（38岁）两个职场关键节点的路径校准。当前可立即启动PMP认证备考+医疗信息化政策研读（推荐书目：《智慧医院建设路径指南》）。<br>专注度加强。本次评估时间2025年3月18日距离上一次10个月<br>没有作量化指标。未能检查执行效果。<br>本次希望设置量化标准和考核标准以及下次评估时间。<br>1、量化标准：<br>    1、完成度：完成度是指在评估时间内完成的任务数量或完成的任务质量。<br>    2、执行效果：执行效果是指在评估时间内完成的任务的执行效果。<br>上一次提到的项目制学习前端也没有落实到位。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[再次安装公众号]]></title>
+      <url>http://www.diawnu.win/2025/03/06/%E5%86%8D%E6%AC%A1%E5%AE%89%E8%A3%85%E5%85%AC%E4%BC%97%E5%8F%B7/</url>
+      <content type="html"><![CDATA[<h3 id="新浪云sae"><a href="#新浪云sae" class="headerlink" title="新浪云sae"></a>新浪云sae</h3><ol>
+<li>进入sae官网，注册账号，购买套餐</li>
+<li>进入sae控制台，创建应用</li>
+<li>进入应用，选择部署，选择上传代码，上传代码<h3 id="失败中"><a href="#失败中" class="headerlink" title="失败中"></a>失败中</h3><h3 id="2025年3月7日"><a href="#2025年3月7日" class="headerlink" title="2025年3月7日"></a>2025年3月7日</h3>排查问题。新浪独立域名无法访问。提交工单等待回复。<h3 id="2025年3月8日"><a href="#2025年3月8日" class="headerlink" title="2025年3月8日"></a>2025年3月8日</h3>收到回复，以解决<br>重新部署成功。<br>总结：排查问题效率问题。减少拿来主义，阅读文档是解决问题的优先方式</li>
+</ol>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[开箱即用zero]]></title>
+      <url>http://www.diawnu.win/2025/02/28/%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8zero/</url>
+      <content type="html"><![CDATA[<p>zero</p>
+<p>zero</p>
+<p>zero</p>
+<p>zero</p>
+<p>zero</p>
+<p>zero</p>
+<p>minus one</p>
+<p>minus one</p>
+<p>go one</p>
+<p>go one </p>
+<p>go one </p>
+<h3 id="2025年3月24日"><a href="#2025年3月24日" class="headerlink" title="2025年3月24日"></a>2025年3月24日</h3><p>过分依赖历史、所以要有归零心态（zero）、加强执行力（go one）</p>
+<h3 id="2025年3月25日"><a href="#2025年3月25日" class="headerlink" title="2025年3月25日"></a>2025年3月25日</h3><p>工具过多，完美主义、不能快速执行。历史遗留。加重负担。笔记归零。黑盒笔记系统。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[归零者]]></title>
+      <url>http://www.diawnu.win/2025/02/28/%E5%BD%92%E9%9B%B6%E8%80%85/</url>
+      <content type="html"><![CDATA[<h3 id="归零者"><a href="#归零者" class="headerlink" title="归零者"></a>归零者</h3><p>#### </p>
+<p>归零机制：人类认知系统的自我迭代密码 </p>
+<p>一、认知断崖：目标达成后的神经性真空<br>人类大脑在长期目标完成后会出现多巴胺能神经环路的代偿性抑制，这一现象被神经科学界称为「目标后真空效应」。功能性磁共振成像显示，当个体完成重大阶段性目标时，前额叶皮层活跃度会骤降42%，而默认模式网络活动增强，形成类似计算机系统卸载程序后的缓存冗余状态。奥运冠军高亭宇将金牌封存的行为，本质上是通过物理隔绝触发神经奖赏系统的重置机制，这种主动制造的认知断崖能有效避免多巴胺受体的钝化。</p>
+<p>二、知识穹顶：认知边界的触顶反弹<br>古希腊哲学家芝诺提出的知识圆圈理论，在现代认知心理学中得到了验证性阐释。功能性近红外光谱技术证实，当个体的知识储备达到某临界值时，其右侧颞顶联合区会出现特异性激活，这种神经活动被定义为「穹顶效应」。达芬奇在解剖40具尸体后陷入的创作瓶颈期，实际上是视觉皮层与运动皮层的神经突触正在进行跨模态重构，这种现象如同宇宙膨胀理论——已知领域越广，接触的未知暗物质越庞大。</p>
+<p>三、代谢式成长：荣耀剥离的神经可塑性<br>脑科学研究显示，持续的成功体验会导致基底神经节中腺苷A2A受体过度表达，进而降低决策系统的风险敏感性。日本企业家稻盛和夫功成身退的案例，在神经管理学视域下可解读为通过环境突变刺激海马体新生神经元生长，其大脑弥散张量成像显示，退休后前扣带回皮层白质纤维连接密度提升了27%。这种主动归零行为触发了默认模式网络与背侧注意网络的功能重组，类似于计算机的碎片整理程序。</p>
+<p>认知神经科学的最新研究表明，人类前额叶皮层存在周期性神经突触修剪机制，该生理现象与心理层面的归零需求形成镜像对应。当个体在行为层面实施成就剥离时，其脑区会出现θ波与γ波的跨频段耦合，这种脑电特征被认为是神经可塑性增强的生物标志。从进化视角观察，归零机制本质上是智人应对不确定性的适应性策略，其神经基础可追溯至旧石器时代狩猎采集者的生存模式切换能力。 </p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[三个个人工具]]></title>
+      <url>http://www.diawnu.win/2025/02/27/%E4%B8%89%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%B7%A5%E5%85%B7/</url>
+      <content type="html"><![CDATA[<h3 id="AI智能体"><a href="#AI智能体" class="headerlink" title="AI智能体"></a>AI智能体</h3><blockquote>
+<p>个人学习（一建）</p>
+<p>围棋老师<br><br>监理助理（工作助手）</p>
+</blockquote>
+<p>阶段性目标缺失。</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> ai工具 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一建学习进度表]]></title>
+      <url>http://www.diawnu.win/2025/02/26/%E4%B8%80%E5%BB%BA%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%A1%A8/</url>
+      <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:left">时间</th>
+<th style="text-align:center">项目</th>
+<th style="text-align:center">完成情况</th>
+<th style="text-align:center">备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">2025年2月26日</td>
+<td style="text-align:center">机电三色基础知识</td>
+<td style="text-align:center">ing</td>
+<td style="text-align:center">备注</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[大模型是不是算法]]></title>
+      <url>http://www.diawnu.win/2025/02/26/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%98%AF%E4%B8%8D%E6%98%AF%E7%AE%97%E6%B3%95/</url>
+      <content type="html"><![CDATA[<h3 id="知乎深度搜索提供支持"><a href="#知乎深度搜索提供支持" class="headerlink" title="知乎深度搜索提供支持"></a>知乎深度搜索提供支持</h3><zhithink><br>嗯，用户问“AI大模型是不是一个超级算法”，我需要先理解“超级算法”的定义是什么。根据参考内容，AI大模型通常被描述为具有大量参数和复杂结构的深度学习模型，比如GPT-3有1750亿参数，PaLM-E有5620亿参数。它们通过海量数据训练，具备较强的任务泛化能力，比如文本生成、代码编写等。<br><br>首先，参考内容中提到，大模型的核心原理包括Transformer架构、注意力机制，以及预训练、微调等阶段。这说明大模型确实依赖于复杂的算法设计，尤其是Transformer和自注意力机制，这些是算法层面的创新。但另一方面，参考内容中的某些观点认为大模型本质上是“更大、更快的数据库传声筒”，缺乏真正的理解和认知能力，只是通过统计概率生成结果，而不是真正的智能。<br><br>需要区分“算法”和“超级算法”。传统算法是明确的指令集，而大模型则是通过数据驱动的模型，其“算法”更多指代模型架构和训练方法。比如，参考内容中提到的训练三阶段：预训练、指令微调、对齐微调，这些都是算法流程的一部分，但大模型本身并不是单一的算法，而是由多个算法组件构成的复杂系统。<br><br>另外，参考内容提到大模型依赖算力、数据和算法三要素，其中算力是关键瓶颈。例如，Grok3训练消耗了20万块GPU，说明其成功不仅依赖算法，还需要强大的计算资源。而超算架构更适合大模型训练，强调算力的重要性。因此，大模型不仅仅是算法，而是算法、数据和算力的结合体。<br><br>还有用户观点认为大模型只是概率生成器，没有真正的理解能力，比如在回答中提到的“模型污染”例子，说明其输出依赖于训练数据的分布，而非真正的推理。这支持了“超级算法”可能言过其实的观点，因为算法本身无法完全模拟人类的认知过程。<br><br>总结来说，AI大模型确实运用了先进的算法技术，尤其是深度学习和Transformer架构，但它们不仅仅是算法，而是算法、数据和算力的综合体。是否称为“超级算法”可能取决于定义，但需明确其局限性和依赖的其他因素。<br></zhithink>
+
+<p>AI大模型与传统算法的关系需要从技术本质和应用逻辑两方面理解：</p>
+<h3 id="1-技术架构的突破性"><a href="#1-技术架构的突破性" class="headerlink" title="1. 技术架构的突破性"></a>1. 技术架构的突破性</h3><ul>
+<li><strong>参数规模</strong>：大模型参数达千亿级别（如GPT-3的1750亿参数），远超传统算法的逻辑单元数量</li>
+<li><strong>训练机制</strong>：基于Transformer架构和自注意力机制，通过海量数据（TB级）完成无监督预训练，而传统算法多依赖人工规则或小样本监督学习</li>
+</ul>
+<h3 id="2-功能实现维度"><a href="#2-功能实现维度" class="headerlink" title="2. 功能实现维度"></a>2. 功能实现维度</h3><ul>
+<li><strong>生成能力</strong>：可自动生成文本/代码/图像等复杂内容，传统算法更多是分类、检索或简单预测</li>
+<li><strong>泛化特性</strong>：在预训练后通过微调适配翻译、问答等多样化任务，传统算法往往专精单一场景</li>
+</ul>
+<h3 id="3-运行依赖差异"><a href="#3-运行依赖差异" class="headerlink" title="3. 运行依赖差异"></a>3. 运行依赖差异</h3><ul>
+<li><strong>算力需求</strong>：训练需数万GPU集群支撑（如Grok3消耗20万块GPU），传统算法对算力要求低两个量级</li>
+<li><strong>数据驱动</strong>：性能提升主要依赖数据规模扩大（如PaLM-E用5620亿参数处理多模态数据），传统算法更侧重特征工程</li>
+</ul>
+<h3 id="4-局限性争议"><a href="#4-局限性争议" class="headerlink" title="4. 局限性争议"></a>4. 局限性争议</h3><ul>
+<li><strong>认知边界</strong>：大模型本质是概率预测器（参考内容指出其输出依赖训练数据分布），无法像人类建立因果链</li>
+<li><strong>创新瓶颈</strong>：在药物研发等需突破性创新的领域，大模型仍受制于现有知识库（如参考内容提到的”知道再多生理知识也难造新药”）</li>
+</ul>
+<h3 id="结论定位"><a href="#结论定位" class="headerlink" title="结论定位"></a>结论定位</h3><p>大模型是算法工程化的集大成者，但不宜简单定义为”超级算法”。其本质是算法（Transformer等）+数据（互联网语料）+算力（GPU集群）三位一体的系统工程，在特定任务上展现超常表现，但缺乏真正的推理和创造能力。正如参考内容所述，它更像是”加强版搜索引擎”，而非突破认知革命的智能体。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[markdown教学]]></title>
+      <url>http://www.diawnu.win/2025/02/25/markdown%E6%95%99%E5%AD%A6/</url>
+      <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>这是普通段落，直接输入文字<br>行尾两个空格实现换行</p>
+<p>空行分隔段落<br><em>斜体文本</em> 或 <em>斜体文本</em><br><strong>粗体文本</strong> 或 <strong>粗体文本</strong><br><del>删除线文本</del><br><code>行内代码</code></p>
+<ul>
+<li>无序列表项</li>
+</ul>
+<ul>
+<li>另一种形式</li>
+</ul>
+<ul>
+<li>第三种形式</li>
+</ul>
+<ol>
+<li>有序列表项</li>
+<li>第二项<blockquote>
+<p>引用内容<br>多行引用</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">hello</span><span class="params">()</span>:</span></div><div class="line">    print(<span class="string">"代码块语法"</span>)</div></pre></td></tr></table></figure>
+</blockquote>
+</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">左对齐</th>
+<th style="text-align:center">居中对齐</th>
+<th style="text-align:right">右对齐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:right">单元格</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>[x] 已完成任务</li>
+<li>[ ] 未完成任务<!-- 这是隐藏的注释 -->
+* 显示星号<br># 显示井号<br>\ 显示反斜杠</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> markdown </tag>
+            
+            <tag> 教学 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[立刻马上]]></title>
+      <url>http://www.diawnu.win/2025/02/24/%E7%AB%8B%E5%88%BB%E9%A9%AC%E4%B8%8A/</url>
+      <content type="html"><![CDATA[<h3 id="立刻马上"><a href="#立刻马上" class="headerlink" title="立刻马上"></a>立刻马上</h3><h4 id="要做什么事立即做不要等。"><a href="#要做什么事立即做不要等。" class="headerlink" title="要做什么事立即做不要等。"></a>要做什么事立即做不要等。</h4><h4 id="markdown"><a href="#markdown" class="headerlink" title="markdown"></a>markdown</h4><h4 id="被工具拖累。"><a href="#被工具拖累。" class="headerlink" title="被工具拖累。"></a>被工具拖累。</h4>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[如何建立个人品牌]]></title>
+      <url>http://www.diawnu.win/2025/02/22/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C/</url>
+      <content type="html"><![CDATA[<h3 id="如何建立个人品牌"><a href="#如何建立个人品牌" class="headerlink" title="如何建立个人品牌"></a>如何建立个人品牌</h3><h4 id="什么是个人品牌"><a href="#什么是个人品牌" class="headerlink" title="什么是个人品牌"></a>什么是个人品牌</h4><h5 id="我们对于他人的角色，我们的行事风格、我们的性格（成就真实的自己）"><a href="#我们对于他人的角色，我们的行事风格、我们的性格（成就真实的自己）" class="headerlink" title="我们对于他人的角色，我们的行事风格、我们的性格（成就真实的自己）"></a>我们对于他人的角色，我们的行事风格、我们的性格（成就真实的自己）</h5><h5 id="资质、规范、风格"><a href="#资质、规范、风格" class="headerlink" title="资质、规范、风格"></a>资质、规范、风格</h5><h5 id="有本事有底线有个性"><a href="#有本事有底线有个性" class="headerlink" title="有本事有底线有个性"></a>有本事有底线有个性</h5><h5 id="个人品牌价值-专业技能-信任度-细心-机智（智慧）-幽默（个性）"><a href="#个人品牌价值-专业技能-信任度-细心-机智（智慧）-幽默（个性）" class="headerlink" title="个人品牌价值=专业技能+信任度+细心+机智（智慧）+幽默（个性）"></a>个人品牌价值=专业技能+信任度+细心+机智（智慧）+幽默（个性）</h5><h5 id="和个人特长密切相关"><a href="#和个人特长密切相关" class="headerlink" title="和个人特长密切相关"></a>和个人特长密切相关</h5><h5 id="个人品牌是人与人交往的桥梁纽带"><a href="#个人品牌是人与人交往的桥梁纽带" class="headerlink" title="个人品牌是人与人交往的桥梁纽带"></a>个人品牌是人与人交往的桥梁纽带</h5><h4 id="怎么建设个人品牌"><a href="#怎么建设个人品牌" class="headerlink" title="怎么建设个人品牌"></a>怎么建设个人品牌</h4><h5 id="个人品牌是持续性的，是不断认识自己的过程。"><a href="#个人品牌是持续性的，是不断认识自己的过程。" class="headerlink" title="个人品牌是持续性的，是不断认识自己的过程。"></a>个人品牌是持续性的，是不断认识自己的过程。</h5><h5 id="知道自己想要什么、知道自己在做什么、自我介绍、保持积极乐观的心态、有价值输出方式（博客、个人主页等）"><a href="#知道自己想要什么、知道自己在做什么、自我介绍、保持积极乐观的心态、有价值输出方式（博客、个人主页等）" class="headerlink" title="知道自己想要什么、知道自己在做什么、自我介绍、保持积极乐观的心态、有价值输出方式（博客、个人主页等）"></a>知道自己想要什么、知道自己在做什么、自我介绍、保持积极乐观的心态、有价值输出方式（博客、个人主页等）</h5><h5 id="有导师、有志同道合的朋友、自我肯定与赞美。"><a href="#有导师、有志同道合的朋友、自我肯定与赞美。" class="headerlink" title="有导师、有志同道合的朋友、自我肯定与赞美。"></a>有导师、有志同道合的朋友、自我肯定与赞美。</h5><h4 id="价值评估"><a href="#价值评估" class="headerlink" title="价值评估"></a>价值评估</h4><h5 id="形成是持续的不间断的可以修改的。维度多种多样的。"><a href="#形成是持续的不间断的可以修改的。维度多种多样的。" class="headerlink" title="形成是持续的不间断的可以修改的。维度多种多样的。"></a>形成是持续的不间断的可以修改的。维度多种多样的。</h5><h5 id="保留文件为note"><a href="#保留文件为note" class="headerlink" title="保留文件为note"></a>保留文件为note</h5>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[微调deepseek个人助理demo]]></title>
+      <url>http://www.diawnu.win/2025/02/20/%E5%BE%AE%E8%B0%83deepseek%E4%B8%AA%E4%BA%BA%E5%8A%A9%E7%90%86demo/</url>
+      <content type="html"><![CDATA[<h3 id="相关工具，集成平台"><a href="#相关工具，集成平台" class="headerlink" title="相关工具，集成平台"></a>相关工具，集成平台</h3><h3 id="以往历史情况–个人助理AI"><a href="#以往历史情况–个人助理AI" class="headerlink" title="以往历史情况–个人助理AI"></a>以往历史情况–个人助理AI</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[监理（白帽子）]]></title>
+      <url>http://www.diawnu.win/2025/02/18/%E7%9B%91%E7%90%86%EF%BC%88%E7%99%BD%E5%B8%BD%E5%AD%90%EF%BC%89/</url>
+      <content type="html"><![CDATA[<p>监理员，新的职业进程。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[磨刀不误砍柴工]]></title>
+      <url>http://www.diawnu.win/2025/02/13/%E7%A3%A8%E5%88%80%E4%B8%8D%E8%AF%AF%E7%A0%8D%E6%9F%B4%E5%B7%A5/</url>
+      <content type="html"><![CDATA[<h2 id="日常磨刀ing"><a href="#日常磨刀ing" class="headerlink" title="日常磨刀ing"></a>日常磨刀ing</h2><p>before<br>整理相关文件。<br>日常清单<br>万学系列<br>人身底座<br>个人品牌                  <br><br>new<br>2025年2月26日<br>今天学习ai工具使用<br>想做一个个人助理类ai应用。  <br></p>
+<h3 id="2025年3月11日"><a href="#2025年3月11日" class="headerlink" title="2025年3月11日"></a>2025年3月11日</h3><p>不要限于工具焦虑，<br>先做业务，<br>搭demo</p>
+<h3 id="2025年3月13日"><a href="#2025年3月13日" class="headerlink" title="2025年3月13日"></a>2025年3月13日</h3><p>做一个个人助理类ai应用。<br>先做一个简单的demo</p>
+<ol>
+<li>实现一个简单的聊天功能</li>
+<li>实现一个简单的问答功能</li>
+<li>实现一个简单的翻译功能</li>
+<li>实现一个简单的总结功能</li>
+<li>实现一个简单的纠错功能</li>
+<li>实现一个简单的纠错功能</li>
+<li>实现一个简单的推荐功能</li>
+<li>实现一个简单的推荐功能</li>
+<li>实现一个简单的推荐功能</li>
+<li>实现一个简单的推荐功能  <br><br>快速迭代</li>
+</ol>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新demo]]></title>
+      <url>http://www.diawnu.win/2025/02/12/%E6%96%B0demo/</url>
+      <content type="html"><![CDATA[<p>项目执行中ing<br>重复熟悉的事情<br>个人ai助手！！！phd</p>
+<h4 id="2025年3月20日"><a href="#2025年3月20日" class="headerlink" title="2025年3月20日"></a>2025年3月20日</h4><p>一建学习助手、围棋助手、个人助手（知识库）、工作助手</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一建计划]]></title>
+      <url>http://www.diawnu.win/2025/02/11/%E4%B8%80%E9%94%AE%E8%AE%A1%E5%88%92/</url>
+      <content type="html"><![CDATA[<h3 id="一建学习"><a href="#一建学习" class="headerlink" title="一建学习"></a>一建学习</h3><p>项目制学习，补充自己<br>程序员基础完成。pass–项目制计划</p>
+<zhithink><br>嗯，用户问的是一建备考计划，我需要综合所有参考内容来给出一个全面且具体的回答。首先，得确定用户可能的情况，比如是否在职、时间安排、科目选择等。参考内容里提到不同阶段的划分，比如基础学习、强化巩固、冲刺模拟，这些都要涵盖进去。<br><br>用户可能有不同的备考时间，比如有的从3月开始，有的现在才开始。需要考虑到不同时间点的计划调整。例如，参考内容中有提到现在到4月底是基础阶段，5月到7月是强化，8月到考前是冲刺。同时，还要注意教材变化，尤其是经济科目在2024年有新标准，必须提醒用户注意。<br><br>另外，实务科目是关键，多数资料都强调实务的重要性，尤其是案例题需要动手写，不能只看答案。需要建议用户多背多练，利用思维导图和真题。还有，公共课和实务的时间分配比例，比如1:1:1:2，这个要提到。<br><br>在职备考的时间管理也很重要，参考内容里有提到早起、午休和晚上学习的时间安排，可以整合成建议。名师推荐部分，不同科目有不同的老师，需要列举出来供用户选择适合自己的。<br><br>记忆方法方面，口诀、图表、艾宾浩斯遗忘曲线都是有效的方法，得包含进去。最后冲刺阶段的模拟考试和心态调整也不能少，还要提醒注意考前细节，比如证件、工具、作息等。<br><br>需要避免过于冗长，但又要全面，可能需要分阶段、分科目来组织内容，用表格或分点的方式呈现，但用户要求不要用标题，所以得自然过渡。还要结合最新信息，比如2025年的教材变化和考试时间，确保信息准确。<br><br>总之，要整合各参考内容中的有效建议，结构清晰，涵盖时间规划、科目重点、学习方法、资料准备、名师推荐和冲刺技巧，确保用户能有一个明确的备考路线图。<br></zhithink>
+
+<p>以下是一建备考计划的详细建议，结合不同备考阶段、科目特点及高效学习方法整理而成：</p>
+<hr>
+<h3 id="一、备考阶段划分（以2025年9月考试为例）"><a href="#一、备考阶段划分（以2025年9月考试为例）" class="headerlink" title="一、备考阶段划分（以2025年9月考试为例）"></a><strong>一、备考阶段划分（以2025年9月考试为例）</strong></h3><ol>
+<li><p><strong>基础阶段（现在-2025年4月）</strong>  </p>
+<ul>
+<li><strong>任务</strong>：精读教材+视频课程，建立知识框架。  </li>
+<li><strong>方法</strong>：  <ul>
+<li>按法规→管理→经济→实务的顺序学习，公共课每科每天1-2节精讲视频（推荐陈印法规、宿吉南管理、达江经济）。  </li>
+<li>实务科目第一遍通读教材，结合3D图解或工艺图片建立画面感（推荐小超人、苏婷精讲）。  </li>
+<li>每学完一章做章节习题（APP刷题），整理错题本，正确率目标50%-60%。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>强化阶段（2025年5月-7月）</strong>  </p>
+<ul>
+<li><strong>任务</strong>：重点突破+真题训练。  </li>
+<li><strong>方法</strong>：  <ul>
+<li>对比新旧教材变动部分（尤其经济科目2024版新标准），强化高频考点。  </li>
+<li>公共课刷近5年真题，实务做案例专项训练（如王峰破题班），真题正确率目标70%以上。  </li>
+<li>实务科目用教材红笔标记历年考点，结合思维导图梳理章节逻辑。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>冲刺阶段（2025年8月-考前）</strong>  </p>
+<ul>
+<li><strong>任务</strong>：查漏补缺+模拟实战。  </li>
+<li><strong>方法</strong>：  <ul>
+<li>背诵学霸笔记、必背200问（利用碎片时间）。  </li>
+<li>每周2-3套全真模拟卷，限时答题并复盘错题。  </li>
+<li>实务案例动手写答案，对照评分标准修正（避免“一看就会，一写就废”）。  </li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、科目备考重点"><a href="#二、科目备考重点" class="headerlink" title="二、科目备考重点"></a><strong>二、科目备考重点</strong></h3><ol>
+<li><p><strong>法规</strong>  </p>
+<ul>
+<li><strong>重点章节</strong>：1/4/6/7/8章（占分80%）。  </li>
+<li><strong>技巧</strong>：理解为主，关注“时间点”“百分比”关键词，案例题注意条文应用场景。</li>
+</ul>
+</li>
+<li><p><strong>管理</strong>  </p>
+<ul>
+<li><strong>重点章节</strong>：1/2/3/4/6章（占分80%）。  </li>
+<li><strong>技巧</strong>：记忆“三控三管一协调”框架，用表格对比进度计划类型、合同类型等易混点。</li>
+</ul>
+</li>
+<li><p><strong>经济</strong>  </p>
+<ul>
+<li><strong>重点章节</strong>：第3章（占分55%）。  </li>
+<li><strong>技巧</strong>：公式先理解后刷题（如终值现值计算），2024版新标准变动部分重点复习。</li>
+</ul>
+</li>
+<li><p><strong>实务（以建筑为例）</strong>  </p>
+<ul>
+<li><strong>重点章节</strong>：技术部分（1/3章）、管理部分（8/9章）。  </li>
+<li><strong>技巧</strong>：  <ul>
+<li>技术部分结合施工动画理解工艺流程。  </li>
+<li>案例题按“判断对错→分析原因→给出措施”模板答题，背诵常用验收标准、质量通病防治措施。  </li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、每日时间管理（在职备考参考）"><a href="#三、每日时间管理（在职备考参考）" class="headerlink" title="三、每日时间管理（在职备考参考）"></a><strong>三、每日时间管理（在职备考参考）</strong></h3><ul>
+<li><strong>早晨</strong>：6:00-7:30 背诵法规条文/管理口诀/实务简答。  </li>
+<li><strong>通勤</strong>：听精讲视频（2倍速），复习昨日错题。  </li>
+<li><strong>午休</strong>：12:00-13:30 刷APP章节题（重点突破薄弱点）。  </li>
+<li><strong>晚上</strong>：19:30-22:30 学习新章节+整理笔记，实务案例手写练习。  </li>
+<li><strong>周末</strong>：全天分块学习（如上午公共课真题，下午实务案例）。  </li>
+</ul>
+<hr>
+<h3 id="四、高效工具与资料"><a href="#四、高效工具与资料" class="headerlink" title="四、高效工具与资料"></a><strong>四、高效工具与资料</strong></h3><ol>
+<li><strong>必备资料</strong>：2025版教材、近5年真题集、学霸笔记/必背200问。  </li>
+<li><strong>APP推荐</strong>：魔考大师（新题库）、金考典（性价比高）、XMind（画思维导图）。  </li>
+<li><strong>冲刺资料</strong>：各机构押题卷（仅作查漏补缺，不可依赖）。  </li>
+</ol>
+<hr>
+<h3 id="五、避坑指南"><a href="#五、避坑指南" class="headerlink" title="五、避坑指南"></a><strong>五、避坑指南</strong></h3><ul>
+<li><strong>拒绝盲目刷课</strong>：同一科目选1-2位老师即可（如法规陈印+王欣互补）。  </li>
+<li><strong>实务忌死记硬背</strong>：先理解工艺流程和技术标准，再结合案例题反向记忆。  </li>
+<li><strong>公共课不轻敌</strong>：法规/管理近年命题偏向案例化，需灵活应用知识点。  </li>
+<li><strong>考前模拟必做</strong>：2024年考生反馈经济科目时间紧张，需提前训练答题速度。  </li>
+</ul>
+<hr>
+<h3 id="六、最后一个月"><a href="#六、最后一个月" class="headerlink" title="六、最后一个月"></a><strong>六、最后一个月</strong></h3><ul>
+<li><strong>冲刺重点</strong>：  <ul>
+<li>实务：狂背简答高频考点（如危大工程、验收程序）。  </li>
+<li>公共课：重做错题本，突击新增/变动考点。  </li>
+</ul>
+</li>
+<li><strong>状态调整</strong>：考前一周调整作息，模拟考试时间（上午经济/法规，下午管理/实务）。  </li>
+</ul>
+<hr>
+<p><strong>注</strong>：备考计划需根据个人基础动态调整，实务科目建议占总复习时间50%。坚持每日学习3小时以上，通过率可提升至80%！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[目标计划立志]]></title>
+      <url>http://www.diawnu.win/2025/02/10/%E7%9B%AE%E6%A0%87%E8%AE%A1%E5%88%92%E7%AB%8B%E5%BF%97/</url>
+      <content type="html"><![CDATA[<h2 id="目标计划立志"><a href="#目标计划立志" class="headerlink" title="目标计划立志"></a>目标计划立志</h2><p>有目标<br>有机会<br>立长志</p>
+<h3 id="2025年3月24日"><a href="#2025年3月24日" class="headerlink" title="2025年3月24日"></a>2025年3月24日</h3><p>历史资料没有想象的完善。每一天可以归零执行</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[加薪]]></title>
+      <url>http://www.diawnu.win/2025/02/09/%E5%8A%A0%E8%96%AA/</url>
+      <content type="html"><![CDATA[<h3 id="希望能加薪哦！不然又要找工作了"><a href="#希望能加薪哦！不然又要找工作了" class="headerlink" title="希望能加薪哦！不然又要找工作了"></a>希望能加薪哦！不然又要找工作了</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[历史总会惊人的相似，人也一样]]></title>
+      <url>http://www.diawnu.win/2024/11/15/%E5%8E%86%E5%8F%B2%E6%80%BB%E4%BC%9A%E6%83%8A%E4%BA%BA%E7%9A%84%E7%9B%B8%E4%BC%BC%EF%BC%8C%E4%BA%BA%E4%B9%9F%E4%B8%80%E6%A0%B7/</url>
+      <content type="html"><![CDATA[<h3 id="兜兜转转人总会回到开始的地方"><a href="#兜兜转转人总会回到开始的地方" class="headerlink" title="兜兜转转人总会回到开始的地方"></a>兜兜转转人总会回到开始的地方</h3><h3 id="人总是在共性中寻找个性，在个性中寻找共性。"><a href="#人总是在共性中寻找个性，在个性中寻找共性。" class="headerlink" title="人总是在共性中寻找个性，在个性中寻找共性。"></a>人总是在共性中寻找个性，在个性中寻找共性。</h3><h3 id="大多数人总是相同的，跑跑跳跳平平淡淡。"><a href="#大多数人总是相同的，跑跑跳跳平平淡淡。" class="headerlink" title="大多数人总是相同的，跑跑跳跳平平淡淡。"></a>大多数人总是相同的，跑跑跳跳平平淡淡。</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[11yuenihao]]></title>
+      <url>http://www.diawnu.win/2024/11/01/11yuenihao/</url>
+      <content type="html"><![CDATA[<h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[监理报名。]]></title>
+      <url>http://www.diawnu.win/2024/10/31/%E7%9B%91%E7%90%86%E6%8A%A5%E5%90%8D%E3%80%82/</url>
+      <content type="html"><![CDATA[<h3 id="没有报上名哦！！！"><a href="#没有报上名哦！！！" class="headerlink" title="没有报上名哦！！！"></a>没有报上名哦！！！</h3><h3 id="国企就是有问题哦！有预料了。"><a href="#国企就是有问题哦！有预料了。" class="headerlink" title="国企就是有问题哦！有预料了。"></a>国企就是有问题哦！有预料了。</h3><h3 id="康立？自费报名"><a href="#康立？自费报名" class="headerlink" title="康立？自费报名"></a>康立？自费报名</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第二年计划结束]]></title>
+      <url>http://www.diawnu.win/2024/10/23/%E7%AC%AC%E4%BA%8C%E5%B9%B4%E8%AE%A1%E5%88%92%E7%BB%93%E6%9D%9F/</url>
+      <content type="html"><![CDATA[<h3 id="差一次植物园"><a href="#差一次植物园" class="headerlink" title="差一次植物园"></a>差一次植物园</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第三季度总结]]></title>
+      <url>http://www.diawnu.win/2024/09/30/%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
+      <content type="html"><![CDATA[<h3 id="第三季度总结"><a href="#第三季度总结" class="headerlink" title="第三季度总结"></a>第三季度总结</h3><h1 id="空置5个月。国庆行情。踏空。认知以外的钱。"><a href="#空置5个月。国庆行情。踏空。认知以外的钱。" class="headerlink" title="空置5个月。国庆行情。踏空。认知以外的钱。"></a>空置5个月。国庆行情。踏空。认知以外的钱。</h1>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[空]]></title>
+      <url>http://www.diawnu.win/2024/04/29/%E7%A9%BA/</url>
+      <content type="html"><![CDATA[<h3 id="没有工作积极性了！"><a href="#没有工作积极性了！" class="headerlink" title="没有工作积极性了！"></a>没有工作积极性了！</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[blue]]></title>
+      <url>http://www.diawnu.win/2024/04/22/blue/</url>
+      <content type="html"><![CDATA[<h3 id="蓝色！"><a href="#蓝色！" class="headerlink" title="蓝色！"></a>蓝色！</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[劳动仲裁]]></title>
+      <url>http://www.diawnu.win/2024/04/15/%E5%8A%B3%E5%8A%A8%E4%BB%B2%E8%A3%81/</url>
+      <content type="html"><![CDATA[<h3 id="准备还是有一点点不充分。"><a href="#准备还是有一点点不充分。" class="headerlink" title="准备还是有一点点不充分。"></a>准备还是有一点点不充分。</h3><h3 id="思路不够敏捷"><a href="#思路不够敏捷" class="headerlink" title="思路不够敏捷"></a>思路不够敏捷</h3><p>希望不要一裁两审</p>
+<ul>
+<li>417</li>
+<li>落实有关法律规定。</li>
+</ul>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[立长志]]></title>
+      <url>http://www.diawnu.win/2024/04/02/%E7%AB%8B%E9%95%BF%E5%BF%97/</url>
+      <content type="html"><![CDATA[<h3 id="语法学习"><a href="#语法学习" class="headerlink" title="语法学习"></a>语法学习</h3><h3 id="历史包袱解决完成"><a href="#历史包袱解决完成" class="headerlink" title="历史包袱解决完成"></a>历史包袱解决完成</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[劳动仲裁]]></title>
+      <url>http://www.diawnu.win/2024/03/26/%E5%8A%B3%E5%8A%A8%E4%BB%B2%E8%A3%81/</url>
+      <content type="html"><![CDATA[<h3 id="4月13"><a href="#4月13" class="headerlink" title="4月13"></a>4月13</h3><h3 id="第二次打官司了！"><a href="#第二次打官司了！" class="headerlink" title="第二次打官司了！"></a>第二次打官司了！</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[市场规划]]></title>
+      <url>http://www.diawnu.win/2024/03/25/%E5%B8%82%E5%9C%BA%E8%A7%84%E5%88%92/</url>
+      <content type="html"><![CDATA[<h3 id="每日三个联系人"><a href="#每日三个联系人" class="headerlink" title="每日三个联系人"></a>每日三个联系人</h3><h3 id="市场信息随时掌握？！"><a href="#市场信息随时掌握？！" class="headerlink" title="市场信息随时掌握？！"></a>市场信息随时掌握？！</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[90天计划]]></title>
+      <url>http://www.diawnu.win/2024/03/18/90%E5%A4%A9%E8%AE%A1%E5%88%92/</url>
+      <content type="html"><![CDATA[<h3 id="明日计划-今日复盘"><a href="#明日计划-今日复盘" class="headerlink" title="明日计划+今日复盘"></a>明日计划+今日复盘</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[当串串]]></title>
+      <url>http://www.diawnu.win/2024/03/14/%E5%BD%93%E4%B8%B2%E4%B8%B2/</url>
+      <content type="html"><![CDATA[<h3 id="两边给工作？"><a href="#两边给工作？" class="headerlink" title="两边给工作？"></a>两边给工作？</h3><h3 id="心里素质不行！不懂得商业氛围！"><a href="#心里素质不行！不懂得商业氛围！" class="headerlink" title="心里素质不行！不懂得商业氛围！"></a>心里素质不行！不懂得商业氛围！</h3><h3 id="什么话应该说！"><a href="#什么话应该说！" class="headerlink" title="什么话应该说！"></a>什么话应该说！</h3><h3 id="小公司！小做法！"><a href="#小公司！小做法！" class="headerlink" title="小公司！小做法！"></a>小公司！小做法！</h3><h3 id="要有平台"><a href="#要有平台" class="headerlink" title="要有平台"></a>要有平台</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[自己的利益？]]></title>
+      <url>http://www.diawnu.win/2024/02/19/%E8%87%AA%E5%B7%B1%E7%9A%84%E5%88%A9%E7%9B%8A%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>如何保护自己的利益！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[职业发展？]]></title>
+      <url>http://www.diawnu.win/2024/02/16/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<h3 id="想法太多！能力跟不上？"><a href="#想法太多！能力跟不上？" class="headerlink" title="想法太多！能力跟不上？"></a>想法太多！能力跟不上？</h3><h3 id="医疗信息化"><a href="#医疗信息化" class="headerlink" title="医疗信息化"></a>医疗信息化</h3><h3 id="四川智慧医院"><a href="#四川智慧医院" class="headerlink" title="四川智慧医院"></a>四川智慧医院</h3><h3 id="云胶片"><a href="#云胶片" class="headerlink" title="云胶片"></a>云胶片</h3><h3 id="工程。招投标！"><a href="#工程。招投标！" class="headerlink" title="工程。招投标！"></a>工程。招投标！</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[背书]]></title>
+      <url>http://www.diawnu.win/2024/02/15/%E8%83%8C%E4%B9%A6/</url>
+      <content type="html"><![CDATA[<h3 id="第一阶段"><a href="#第一阶段" class="headerlink" title="第一阶段"></a>第一阶段</h3><h2 id="90天！？"><a href="#90天！？" class="headerlink" title="90天！？"></a>90天！？</h2><h2 id="以往经验。"><a href="#以往经验。" class="headerlink" title="以往经验。"></a>以往经验。</h2>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[year]]></title>
+      <url>http://www.diawnu.win/2024/02/12/year/</url>
+      <content type="html"><![CDATA[<p>new year</p>
+<h2 id="新年"><a href="#新年" class="headerlink" title="新年"></a>新年</h2><h3 id="8-9-10-11-12-？"><a href="#8-9-10-11-12-？" class="headerlink" title="8 9 10 11 12 ？"></a>8 9 10 11 12 ？</h3><h3 id="new-new-year"><a href="#new-new-year" class="headerlink" title="new new year"></a>new new year</h3><h3 id="走亲戚-2月13-2月14"><a href="#走亲戚-2月13-2月14" class="headerlink" title="走亲戚 2月13-2月14"></a>走亲戚 2月13-2月14</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[执行力？]]></title>
+      <url>http://www.diawnu.win/2024/02/05/%E6%89%A7%E8%A1%8C%E5%8A%9B%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<h2 id="计划？"><a href="#计划？" class="headerlink" title="计划？"></a>计划？</h2><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><h2 id="加班"><a href="#加班" class="headerlink" title="加班"></a>加班</h2><h2 id="拜年"><a href="#拜年" class="headerlink" title="拜年"></a>拜年</h2>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[417]]></title>
+      <url>http://www.diawnu.win/2024/02/04/417/</url>
+      <content type="html"><![CDATA[<p>417<br>16年？~<br>2009年4月17</p>
+<h3 id="天津"><a href="#天津" class="headerlink" title="天津"></a>天津</h3><h3 id="文安-11月"><a href="#文安-11月" class="headerlink" title="文安 11月"></a>文安 11月</h3><h3 id="2010年12月？"><a href="#2010年12月？" class="headerlink" title="2010年12月？"></a>2010年12月？</h3><h3 id="2011、"><a href="#2011、" class="headerlink" title="2011、"></a>2011、</h3><h3 id="zero"><a href="#zero" class="headerlink" title="zero"></a>zero</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[家又被偷了！？]]></title>
+      <url>http://www.diawnu.win/2024/01/30/%E5%AE%B6%E5%8F%88%E8%A2%AB%E5%81%B7%E4%BA%86%EF%BC%81%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>一出差老家就被偷！<br>好不容易找个稳定的工作？以后怎么办啊！？<br>新工作么？<br>医疗行业！PMP证书</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[项目管理]]></title>
+      <url>http://www.diawnu.win/2024/01/23/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</url>
+      <content type="html"><![CDATA[<p>严格按照项目管理进行的相关流程管理（正式并规范），项目文件交接须有双方项目经理签字确认，项目实施过程留痕、多保存相关记录（照片、文档、日志、截屏）<br>调研报告、<br>资料整理、<br>调研清单、<br>保密协议、<br>保密培训、<br>正式开工、<br>需求确认、</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[16周基础第一遍]]></title>
+      <url>http://www.diawnu.win/2024/01/16/16%E5%91%A8%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%B8%80%E9%81%8D/</url>
+      <content type="html"><![CDATA[<p>一周时间<br>前端三件套<br>html+css+js</p>
+<p>python<br>国考<br>liunx<br>炒作系统<br>c++</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[HTML+CSS+JAVASCRIPT]]></title>
+      <url>http://www.diawnu.win/2024/01/12/HTML-CSS-JAVASCRIPT/</url>
+      <content type="html"><![CDATA[<h3 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h3><p>css兼容性、私有属性<br>    谷歌浏览器：-webkit-<br>    火狐浏览器：-moz-<br>    IE浏览器：-ms-<br>    Opera 浏览器： -o-<br>    苹果浏览器：-wenkit-<br>ps？<br>span标签、行内<br>name 描点<br>初始化、浏览器自带格式<br>    样式的预设：<br>    body,h1,h2,h3,h4,h5,h6,p,ul,li,input,option,textarea,dl,dt,dd{ margin:0;padding:0; }   填充、边距<br>    Ul { list-style:none; }//取消点的<br>    img{border:none;}//三象数<br>    a{ text-decoration:none; }//变色</p>
+<h3 id="相对定位、绝对定位"><a href="#相对定位、绝对定位" class="headerlink" title="相对定位、绝对定位"></a>相对定位、绝对定位</h3><p>px，em ？<br>1、new 构造函数</p>
+<p>var obj=new Object（）</p>
+<p>###C冒泡阶段、委派、默认事件</p>
+<p>箭头函数 作用域 let console<br>http+icp/ip 等通信协议</p>
+<p>原型<em>原型链</em>继承</p>
+<p>块级作用域、函数作用域</p>
+<h3 id="let"><a href="#let" class="headerlink" title="let"></a>let</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[DIVandCSS命名建议]]></title>
+      <url>http://www.diawnu.win/2024/01/11/DIVandCSS%E5%91%BD%E5%90%8D%E5%BB%BA%E8%AE%AE/</url>
+      <content type="html"><![CDATA[<h3 id="一、命名规则说明"><a href="#一、命名规则说明" class="headerlink" title="一、命名规则说明"></a>一、命名规则说明</h3><pre><code>1）、所有的命名最好都小写\
+2）、属性的值一定要用双引号(&quot;&quot;)括起来，且一定要有值如class\=&quot;divcss5&quot;,id\=&quot;divcss5&quot;\
+3）、每个标签都要有开始和结束，且要有正确的层次，排版有规律工整\
+4）、空元素要有结束的tag或于开始的tag后加上&quot;/&quot;\
+5）、表现与结构完全分离，代码中不涉及任何的表现元素，如style、font、bgColor、border等\
+6）、\&lt;h1&gt;到\&lt;h6&gt;的定义，应遵循从大到小的原则，体现文档的结构，并有利于搜索引擎的查询。\
+7）、给每一个表格和表单加上一个唯一的、结构标记id\
+8）、给图片加上alt标签\
+9）、尽量使用英文命名原则\
+10）、尽量不缩写，除非一看就明白的单词
+</code></pre><h3 id="三、DIV-CSS命名参考表"><a href="#三、DIV-CSS命名参考表" class="headerlink" title="三、DIV+CSS命名参考表"></a>三、DIV+CSS命名参考表</h3><p>以下为CSS样式命名与css文件命名参考表，DIV CSS命名集合：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">#wrapper</th>
+<th style="text-align:left">页面外围控制整体布局宽度</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">#container或#content</td>
+<td style="text-align:left">容器,用于最外层</td>
+</tr>
+<tr>
+<td style="text-align:left">#layout</td>
+<td style="text-align:left">布局</td>
+</tr>
+<tr>
+<td style="text-align:left">#head, #header</td>
+<td style="text-align:left">页头部分</td>
+</tr>
+<tr>
+<td style="text-align:left">#foot, #footer</td>
+<td style="text-align:left">页脚部分</td>
+</tr>
+<tr>
+<td style="text-align:left">#nav</td>
+<td style="text-align:left">主导航</td>
+</tr>
+<tr>
+<td style="text-align:left">#subnav</td>
+<td style="text-align:left">二级导航</td>
+</tr>
+<tr>
+<td style="text-align:left">#menu</td>
+<td style="text-align:left">菜单</td>
+</tr>
+<tr>
+<td style="text-align:left">#submenu</td>
+<td style="text-align:left">子菜单</td>
+</tr>
+<tr>
+<td style="text-align:left">#sideBar</td>
+<td style="text-align:left">侧栏</td>
+</tr>
+<tr>
+<td style="text-align:left">#sidebar_a, #sidebar_b</td>
+<td style="text-align:left">左边栏或右边栏</td>
+</tr>
+<tr>
+<td style="text-align:left">#main</td>
+<td style="text-align:left">页面主体</td>
+</tr>
+<tr>
+<td style="text-align:left">#tag</td>
+<td style="text-align:left">标签</td>
+</tr>
+<tr>
+<td style="text-align:left">#msg #message</td>
+<td style="text-align:left">提示信息</td>
+</tr>
+<tr>
+<td style="text-align:left">#tips</td>
+<td style="text-align:left">小技巧</td>
+</tr>
+<tr>
+<td style="text-align:left">#vote</td>
+<td style="text-align:left">投票</td>
+</tr>
+<tr>
+<td style="text-align:left">#friendlink</td>
+<td style="text-align:left">友情连接</td>
+</tr>
+<tr>
+<td style="text-align:left">#title</td>
+<td style="text-align:left">标题</td>
+</tr>
+<tr>
+<td style="text-align:left">#summary</td>
+<td style="text-align:left">摘要</td>
+</tr>
+<tr>
+<td style="text-align:left">#loginbar</td>
+<td style="text-align:left">登录条</td>
+</tr>
+<tr>
+<td style="text-align:left">#searchInput</td>
+<td style="text-align:left">搜索输入框</td>
+</tr>
+<tr>
+<td style="text-align:left">#hot</td>
+<td style="text-align:left">热门热点</td>
+</tr>
+<tr>
+<td style="text-align:left">#search</td>
+<td style="text-align:left">搜索</td>
+</tr>
+<tr>
+<td style="text-align:left">#search_output</td>
+<td style="text-align:left">搜索输出和搜索结果相似</td>
+</tr>
+<tr>
+<td style="text-align:left">#searchBar</td>
+<td style="text-align:left">搜索条</td>
+</tr>
+<tr>
+<td style="text-align:left">#search_results</td>
+<td style="text-align:left">搜索结果</td>
+</tr>
+<tr>
+<td style="text-align:left">#copyright</td>
+<td style="text-align:left">版权信息</td>
+</tr>
+<tr>
+<td style="text-align:left">#branding</td>
+<td style="text-align:left">商标</td>
+</tr>
+<tr>
+<td style="text-align:left">#logo</td>
+<td style="text-align:left">网站LOGO标志</td>
+</tr>
+<tr>
+<td style="text-align:left">#siteinfo</td>
+<td style="text-align:left">网站信息</td>
+</tr>
+<tr>
+<td style="text-align:left">#siteinfoLegal</td>
+<td style="text-align:left">法律声明</td>
+</tr>
+<tr>
+<td style="text-align:left">#siteinfoCredits</td>
+<td style="text-align:left">信誉</td>
+</tr>
+<tr>
+<td style="text-align:left">#joinus</td>
+<td style="text-align:left">加入我们</td>
+</tr>
+<tr>
+<td style="text-align:left">#partner</td>
+<td style="text-align:left">合作伙伴</td>
+</tr>
+<tr>
+<td style="text-align:left">#service</td>
+<td style="text-align:left">服务</td>
+</tr>
+<tr>
+<td style="text-align:left">#regsiter</td>
+<td style="text-align:left">注册</td>
+</tr>
+<tr>
+<td style="text-align:left">arr/arrow</td>
+<td style="text-align:left">箭头</td>
+</tr>
+<tr>
+<td style="text-align:left">#guild</td>
+<td style="text-align:left">指南</td>
+</tr>
+<tr>
+<td style="text-align:left">#sitemap</td>
+<td style="text-align:left">网站地图</td>
+</tr>
+<tr>
+<td style="text-align:left">#list</td>
+<td style="text-align:left">列表</td>
+</tr>
+<tr>
+<td style="text-align:left">#homepage</td>
+<td style="text-align:left">首页</td>
+</tr>
+<tr>
+<td style="text-align:left">#subpage</td>
+<td style="text-align:left">二级页面子页面</td>
+</tr>
+<tr>
+<td style="text-align:left">#tool, #toolbar</td>
+<td style="text-align:left">工具条</td>
+</tr>
+<tr>
+<td style="text-align:left">#drop</td>
+<td style="text-align:left">下拉</td>
+</tr>
+<tr>
+<td style="text-align:left">#dorpmenu</td>
+<td style="text-align:left">下拉菜单</td>
+</tr>
+<tr>
+<td style="text-align:left">#status</td>
+<td style="text-align:left">状态</td>
+</tr>
+<tr>
+<td style="text-align:left">#scroll</td>
+<td style="text-align:left">滚动</td>
+</tr>
+<tr>
+<td style="text-align:left">.tab</td>
+<td style="text-align:left">标签页</td>
+</tr>
+<tr>
+<td style="text-align:left">.left .right .center</td>
+<td style="text-align:left">居左、中、右</td>
+</tr>
+<tr>
+<td style="text-align:left">.news</td>
+<td style="text-align:left">新闻</td>
+</tr>
+<tr>
+<td style="text-align:left">.download</td>
+<td style="text-align:left">下载</td>
+</tr>
+<tr>
+<td style="text-align:left">.banner</td>
+<td style="text-align:left">广告条(顶部广告条)</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">.products</td>
+<td style="text-align:left">产品</td>
+</tr>
+<tr>
+<td style="text-align:left">.products_prices</td>
+<td style="text-align:left">产品价格</td>
+</tr>
+<tr>
+<td style="text-align:left">.products_description</td>
+<td style="text-align:left">产品描述</td>
+</tr>
+<tr>
+<td style="text-align:left">.products_review</td>
+<td style="text-align:left">产品评论</td>
+</tr>
+<tr>
+<td style="text-align:left">.editor_review</td>
+<td style="text-align:left">编辑评论</td>
+</tr>
+<tr>
+<td style="text-align:left">.news_release</td>
+<td style="text-align:left">最新产品</td>
+</tr>
+<tr>
+<td style="text-align:left">.publisher</td>
+<td style="text-align:left">生产商</td>
+</tr>
+<tr>
+<td style="text-align:left">.screenshot</td>
+<td style="text-align:left">缩略图</td>
+</tr>
+<tr>
+<td style="text-align:left">.faqs</td>
+<td style="text-align:left">常见问题</td>
+</tr>
+<tr>
+<td style="text-align:left">.keyword</td>
+<td style="text-align:left">关键词</td>
+</tr>
+<tr>
+<td style="text-align:left">.blog</td>
+<td style="text-align:left">博客</td>
+</tr>
+<tr>
+<td style="text-align:left">.forum</td>
+<td style="text-align:left">论坛</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>CSS文件命名</strong></th>
+<th style="text-align:left"><strong>说明</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">master.css,style.css</td>
+<td style="text-align:left">主要的</td>
+</tr>
+<tr>
+<td style="text-align:left">module.css</td>
+<td style="text-align:left">模块</td>
+</tr>
+<tr>
+<td style="text-align:left">base.css</td>
+<td style="text-align:left">基本共用</td>
+</tr>
+<tr>
+<td style="text-align:left">layout.css</td>
+<td style="text-align:left">布局，版面</td>
+</tr>
+<tr>
+<td style="text-align:left">themes.css</td>
+<td style="text-align:left">主题</td>
+</tr>
+<tr>
+<td style="text-align:left">columns.css</td>
+<td style="text-align:left">专栏</td>
+</tr>
+<tr>
+<td style="text-align:left">font.css</td>
+<td style="text-align:left">文字、字体</td>
+</tr>
+<tr>
+<td style="text-align:left">forms.css</td>
+<td style="text-align:left">表单</td>
+</tr>
+<tr>
+<td style="text-align:left">mend.css</td>
+<td style="text-align:left">补丁</td>
+</tr>
+<tr>
+<td style="text-align:left">print.css</td>
+<td style="text-align:left">打印</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CSS命名其它说明:</strong></p>
+<p><strong>DIV+CSS命名小结</strong>：无论是使用“.”（小写句号）选择符号开头命名，还是使用“#”(井号)选择符号开头命名都无所谓，但我们最好遵循，<strong>主要的</strong>、<strong>重要的</strong>、<strong>特殊的</strong>、<strong>最外层的</strong>盒子用“#”(井号)选择符号开头命名，其它都用“.”（小写句号）选择符号开头命名，同时考虑命名的<a href="http://www.divcss5.com/rumen/r61.shtml" title="http://www.divcss5.com/rumen/r61.shtml" target="_blank" rel="external">CSS选择器</a>在HTML中重复使用调用。</p>
+<p>通常我们最常用主要命名有：wrap（外套、最外层）、header（页眉、头部）、nav(导航条)、menu(菜单)、title(栏目标题、一般配合h1\h2\h3\h4标签使用)、content (内容区)、footer(页脚、底部)、logo（标志、可以配合h1标签使用）、banner（广告条，一般在顶部）、copyRight（版权）。其它可根据自己需要选择性使用。</p>
+<p><strong>建议：</strong>主要的、重要的、最外层的盒子用“#”(井号)选择符号开头命名，其它都用“.”（小写句号）选择符号开头命名。</p>
+<p><strong>2.</strong><a href="http://www.divcss5.com/rumen/r29.shtml" title="http://www.divcss5.com/rumen/r29.shtml" target="_blank" rel="external">CSS样式</a><strong>文件命名如下 \
+ </strong>\<br> 主要的 master.css \<br> 布局，版面 layout.css \<br> 专栏 columns.css \<br> 文字 font.css \<br> 打印样式 print.css \<br> 主题 themes.css</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[完整的HTML标签]]></title>
+      <url>http://www.diawnu.win/2024/01/10/%E5%AE%8C%E6%95%B4%E7%9A%84HTML%E6%A0%87%E7%AD%BE/</url>
+      <content type="html"><![CDATA[<p>标签    描述<br><!--...-->    定义注释。<br>&lt;!DOCTYPE&gt;     定义文档类型。<br><a>    定义超链接。<br><abbr>    定义缩写词或首字母缩略词。</abbr></a></p>
+<p><acronym>    HTML5 中不支持。请使用 <abbr> 代替。定义首字母缩略词。</abbr></acronym></p>
+<p><address>    定义文档作者或拥有者的联系信息。</address></p>
+<p><applet>    HTML5 中不支持。请使用 <embed> 和 <object> 代替。定义嵌入式小程序。</object></applet></p>
+<p><area>    定义图像映射内部的区域。</p>
+<p><article>    定义文章。</article></p>
+<p><aside>    定义页面内容之外的内容。</aside></p>
+<p><audio>    定义嵌入的声音内容。<br><b>    定义粗体字。</b></audio></p>
+<p><base>    规定文档中所有相对 URL 的基准 URL 和/或目标。</p>
+<p><basefont>    HTML5 中不支持。请使用 CSS 代替。定义文档中文本的默认字体、颜色或尺寸。<br><bdi>    定义文本的文本方向，使其脱离其周围文本的方向设置。<br><bdo>    定义文字方向。</bdo></bdi></p>
+<p><big>    HTML5 中不支持。请使用 CSS 代替。定义大号文本。</big></p>
+<p><blockquote>    定义长的引用。</blockquote></p>
+<p><body>    定义文档的主体。<br><br>    定义简单的折行。</body></p>
+<p><button>    定义可点击的按钮。</button></p>
+<p><canvas>    用于通过脚本（通常是 JavaScript）动态绘制图形。</canvas></p>
+<p><caption>    定义表格标题。</caption></p>
+<p><center>    HTML5 中不支持。请使用 CSS 代替。定义居中的文本。<br><cite>    定义作品的标题。<br><code>    定义一段计算机代码。</code></cite></center></p>
+<p><col>    规定 <colgroup> 元素 中每列的列属性。</colgroup></p>
+<p><colgroup>    规定表格中供格式化的列组。<br><data>    添加给定内容的机器可读的翻译。</data></colgroup></p>
+<p><datalist>    规定输入控件的预定义选项列表。</datalist></p>
+<p><dd>    定义描述列表中术语的描述/值。<br><del>    定义已从文档中删除的文本。</del></dd></p>
+<p><details>    定义用户可查看或隐藏的其他详细信息。<br><dfn>    规定要在内容中定义的术语。</dfn></details></p>
+<p><dialog>    定义对话框或窗口。</dialog></p>
+<p><dir>    HTML5 中不支持。请使用 CSS 代替。定义目录列表。</dir></p>
+<p><div>    定义文档中的节（片段）。</div></p>
+<p><dl>    定义描述列表。</dl></p>
+<p><dt>    定义描述列表中的术语/名称。<br><em>    定义强调文本。</em></dt></p>
+<p><embed>    定义外部资源的容器。</p>
+<p><fieldset>    对表单中的相关元素进行分组。</fieldset></p>
+<p><figcaption>    定义 figure 元素 的标题。</figcaption></p>
+<p><figure>    规定自包含的内容。</figure></p>
+<p><font>    HTML5 中不支持。请使用 CSS 代替。定义文字的字体、尺寸和颜色。</font></p>
+<p><footer>    定义文档或小节的页脚。</footer></p>
+<p><form>    定义供用户输入的 HTML 表单。</form></p>
+<p><frame>    HTML5 中不支持。定义框架集的窗口或框架。</p>
+<p><frameset>    HTML5 中不支持。定义框架集。</frameset></p>
+<p></p><h1> to <h6>    定义 HTML 标题。<p></p>
+<p><head>    包含文档的元数据/信息。</head></p>
+<p><header>    定义文档或小节的页眉。</header></p>
+<p><hgroup>    定义标题和相关内容。</hgroup></p>
+<p><hr>    定义内容的主题变化。</p>
+<p><html>    定义 HTML 文档的根。<br><i>    定义以不同的语气或情态表达的文本部分。</i></html></p>
+<p><iframe>    定义内联框架。<br><img>    定义图像。</iframe></p>
+<p><input>    定义输入控件。<br><ins>    定义已插入到文档中的文本。<br><kbd>    定义键盘输入。</kbd></ins></p>
+<p><label>    定义 input 元素 的标注。</label></p>
+<p><legend>    定义 fieldset 元素 的标题。</legend></p>
+<p><li>    定义列表的项目。</li></p>
+<p><link>    定义文档与外部资源的关系（最常用于链接样式表）。</p>
+<p><main>    定义文档的主要内容。</main></p>
+<p><map>    定义图像映射。<br><mark>    定义应标记或突出显示的文本。</mark></map></p>
+<p><menu>    定义无序列表。</menu></p>
+<p><meta>    定义关于 HTML 文档的元数据。</p>
+<p><meter>    定义已知范围内的仪表。</meter></p>
+<p><nav>    定义导航链接。</nav></p>
+<p><noframes>    HTML5 中不支持。定义针对不支持框架的用户的替代内容。</noframes></p>
+<p><noscript>    定义针对不支持客户端脚本的用户的替代内容。</noscript></p>
+<p><object>    定义外部资源的容器。</object></p>
+<p><ol>    定义有序列表。</ol></p>
+<p><optgroup>    定义下拉列表列表中相关选项的分组。</optgroup></p>
+<p><option>    定义下拉列表中的选项。</option></p>
+<p><output>    定义计算的结果。</output></p>
+<p></p><p>    定义段落。</p>
+<p><param>    定义对象的参数。</p>
+<p><picture>    定义多个图像资源的容器。</picture></p>
+<p><pre>    定义预格式文本。</pre></p>
+<p><progress>    定义任务进度。<br><q>    定义短的引用。<br><rp>    定义在不支持 ruby 注释的浏览器中显示的内容。<br><rt>    定义字符的解释/发音（针对东亚印刷术）。<br><ruby>    定义 ruby 注释（针对东亚印刷术）。<br><s>    定义不再正确的文本。<br><samp>    定义计算机程序的样本输出。</samp></s></ruby></rt></rp></q></progress></p>
+<p><script>    定义客户端脚本。</p>
+<p><search>    定义搜索部分。</p>
+<p><section>    定义文档中的一个部分。</p>
+<p><select>    定义下拉列表。<br><small>    定义小号文本。</p>
+<p><source>    定义媒体元素（如 <video>、<audio> 和 <picture>）的多个媒体资源。<br><span>    定义文本的一部分，或文档的一部分。</p>
+<p><strike>    HTML5 中不支持。请使用 <del> 或 <s> 代替。定义加删除线文本。<br><strong>    定义重要的文本。</p>
+<p><style>    定义文档的样式信息。<br><sub>    定义下标文本。</p>
+<p><summary>    定义 <details> 元素 的可见标题。<br><sup>    定义上标文本。</p>
+<p><svg>    定义 SVG 图形的容器。</p>
+<p><table>    定义表格。</p>
+<p><tbody>    定义表格中的主体内容。</p>
+<p><td>    定义表格中的单元。</p>
+<p><template>    定义用作容纳页面加载时隐藏内容的容器。</p>
+<p><textarea>    定义多行的文本输入控件。</p>
+<p><tfoot>    定义表格中的表注内容（脚注）。</p>
+<p><th>    定义表格中的表头单元格。</p>
+<p><thead>    定义表格中的表头内容。<br><time>    定义日期/时间。</p>
+<p><title>    定义文档的标题。</p>
+<p><tr>    定义表格中的行。</p>
+<p><track>    定义用在媒体播放器中的文本轨道。</p>
+<p><tt>    HTML5 中不支持。请使用 CSS 代替。定义打字机文本。<br><u>    定义未明确表达且样式与普通文本不同的文本。</p>
+<p><ul>    定义无序列表。<br><var>    定义变量。</p>
+<p><video>    定义嵌入的视频内容。<br><wbr>    定义可能的换行符。<br>标签及用法参数、属性、值</p>
+</script></p></h6></h1>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[hexo升级？]]></title>
+      <url>http://www.diawnu.win/2024/01/09/hexo%E5%8D%87%E7%BA%A7%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>最新的不显示版本号了？<br>之前的是3.2.2<br>把node降了！！！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[git回滚？]]></title>
+      <url>http://www.diawnu.win/2024/01/07/git%E5%9B%9E%E6%BB%9A%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>哎用hexo d 每一次都是全新的页面，都是覆盖。<br><br><br><br>用不明的源文件三思而后行。<br><br><br></p>
+<p></p><h1>另外hexo不支持高版本node，具体最高不知道我用的12.18.1</h1><p></p>
+<p></p><h2>又搞崩一次！！2024年1月2日</h2><p></p>
+<p></p><h2>不同步？2024年1月5日</h2><p></p>
+<p></p><h2>手动回滚</h2><p></p>
+<p></p><h2>拉取成功</h2><p></p>
+<p></p><h2>重新写readme</h2><p></p>
+<p>回滚最终用手动方式解决的</p>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新建文章]]></title>
+      <url>http://www.diawnu.win/2024/01/06/%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<p>新建一个文章，跟新目录！<br>解决回滚问题<br>同步问题、<br>提成？2000奖金！<br>需要学习的太多太多。历史负担太重！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[版本不匹配？]]></title>
+      <url>http://www.diawnu.win/2024/01/03/%E7%89%88%E6%9C%AC%E4%B8%8D%E5%8C%B9%E9%85%8D%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>显示错误？？？<br>重新编译！！！20点17分2024年1月6日</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新年第一天？]]></title>
+      <url>http://www.diawnu.win/2024/01/03/%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%9F/</url>
+      <content type="html"><![CDATA[<p>没有发现编译错误！！！<br>？？？<br>坚果云害我啊！<br>回滚成功？！！<br>规划完毕！<br>2024计划开始</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[2024START]]></title>
+      <url>http://www.diawnu.win/2024/01/01/2024START/</url>
+      <content type="html"><![CDATA[<p>新年开始</p>
+<p>关键词</p>
+<p><strong>==搞钱==</strong></p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[2023OVER]]></title>
+      <url>http://www.diawnu.win/2023/12/31/2023OVER/</url>
+      <content type="html"><![CDATA[<p>2023年完美收官<br>435000业绩！<br>903<br>2023年12月31日<br>22点04分</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[13元]]></title>
+      <url>http://www.diawnu.win/2023/11/07/13%E5%85%83/</url>
+      <content type="html"><![CDATA[<p>一天时间？13元。闸弄相信<br>加油<br>补充：<br>最后还是没有选到合适的！质量还不行，没有 退货</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[黎明前的黑暗]]></title>
+      <url>http://www.diawnu.win/2023/11/02/%E9%BB%8E%E6%98%8E%E5%89%8D%E7%9A%84%E9%BB%91%E6%9A%97/</url>
+      <content type="html"><![CDATA[<p>公司现在基本情况<br>要把数据做好？<br>魏总不想做了？<br>5年后上市企业？<br>中层管理者！<br>张邦红<br>补充：<br>张邦红 优化</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[丢标]]></title>
+      <url>http://www.diawnu.win/2023/10/27/%E4%B8%A2%E6%A0%87/</url>
+      <content type="html"><![CDATA[<p>认真？<br>有预感！<br>签字盖章！？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[科技馆]]></title>
+      <url>http://www.diawnu.win/2023/07/01/%E7%A7%91%E6%8A%80%E9%A6%86/</url>
+      <content type="html"><![CDATA[<p>开心的科技馆之旅</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[六月结束]]></title>
+      <url>http://www.diawnu.win/2023/06/30/%E5%85%AD%E6%9C%88%E7%BB%93%E6%9D%9F/</url>
+      <content type="html"><![CDATA[<p>时间管理？<br>工作进度缓慢！<br>3个月、90天？？？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[时间管理?]]></title>
+      <url>http://www.diawnu.win/2023/06/28/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</url>
+      <content type="html"><![CDATA[<p>如何进行时间管理啊！？<br>提高效率？！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[六月开始]]></title>
+      <url>http://www.diawnu.win/2023/06/03/%E5%85%AD%E6%9C%88%E5%BC%80%E5%A7%8B/</url>
+      <content type="html"><![CDATA[<p>江油驻点<br>绵阳资源</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[520]]></title>
+      <url>http://www.diawnu.win/2023/05/20/520/</url>
+      <content type="html"><![CDATA[<p>一起看电影</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[修电脑]]></title>
+      <url>http://www.diawnu.win/2023/05/08/%E4%BF%AE%E7%94%B5%E8%84%91/</url>
+      <content type="html"><![CDATA[<p>拆拆拆</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[五一快乐]]></title>
+      <url>http://www.diawnu.win/2023/05/01/%E4%BA%94%E4%B8%80%E5%BF%AB%E4%B9%90/</url>
+      <content type="html"><![CDATA[<p>一人回复！<br>爬虫？<br>老家被偷！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[开心]]></title>
+      <url>http://www.diawnu.win/2023/04/26/%E5%BC%80%E5%BF%83/</url>
+      <content type="html"><![CDATA[<p>动力火车。<br>一年？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[三个月了]]></title>
+      <url>http://www.diawnu.win/2023/04/22/%E4%B8%89%E4%B8%AA%E6%9C%88%E4%BA%86/</url>
+      <content type="html"><![CDATA[<p>自己的是事情自己抓紧</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[总结]]></title>
+      <url>http://www.diawnu.win/2023/04/14/%E6%80%BB%E7%BB%93/</url>
+      <content type="html"><![CDATA[<p>时间啊啊<br>62年？<br>上市？<br>技巧？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[加班中、奋斗机]]></title>
+      <url>http://www.diawnu.win/2023/04/09/%E5%8A%A0%E7%8F%AD%E4%B8%AD%E3%80%81%E5%A5%8B%E6%96%97%E6%9C%BA/</url>
+      <content type="html"><![CDATA[<p>时间不够用啊！需要跑的地方太多太多。努力积累<br>小朋友你好</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[江油市场开发]]></title>
+      <url>http://www.diawnu.win/2023/04/03/%E6%B1%9F%E6%B2%B9%E5%B8%82%E5%9C%BA%E5%BC%80%E5%8F%91/</url>
+      <content type="html"><![CDATA[<p>以业务带业务</p>
+<p>放假继续</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[学会使用工具]]></title>
+      <url>http://www.diawnu.win/2023/04/02/%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7/</url>
+      <content type="html"><![CDATA[<p>学会使用工具</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[中间人]]></title>
+      <url>http://www.diawnu.win/2023/04/01/%E4%B8%AD%E9%97%B4%E4%BA%BA/</url>
+      <content type="html"><![CDATA[<p>中间人<br>加油</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[成都第五人民医院]]></title>
+      <url>http://www.diawnu.win/2023/03/29/%E6%88%90%E9%83%BD%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2/</url>
+      <content type="html"><![CDATA[<p>上层阻力大！<br>温江区人民医院</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[医疗行业开始]]></title>
+      <url>http://www.diawnu.win/2023/03/26/%E5%8C%BB%E7%96%97%E8%A1%8C%E4%B8%9A%E5%BC%80%E5%A7%8B/</url>
+      <content type="html"><![CDATA[<p>找医生<br>找医院<br>两个医院（成都市第五人民医院、温江区人民医院）<br>退休干部！？</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 医疗 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[2000]]></title>
+      <url>http://www.diawnu.win/2023/03/20/2000/</url>
+      <content type="html"><![CDATA[<p>2000</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[脉脉拓展人脉]]></title>
+      <url>http://www.diawnu.win/2023/03/19/%E8%84%89%E8%84%89%E6%8B%93%E5%B1%95%E4%BA%BA%E8%84%89/</url>
+      <content type="html"><![CDATA[<p>130/4</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[康博会]]></title>
+      <url>http://www.diawnu.win/2023/03/16/%E5%BA%B7%E5%8D%9A%E4%BC%9A/</url>
+      <content type="html"><![CDATA[<p>博士级别</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分开]]></title>
+      <url>http://www.diawnu.win/2023/03/12/%E5%88%86%E5%BC%80/</url>
+      <content type="html"><![CDATA[<p>不同意！<br>演讲</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[像高齐强的曹总]]></title>
+      <url>http://www.diawnu.win/2023/03/07/%E5%83%8F%E9%AB%98%E9%BD%90%E5%BC%BA%E7%9A%84%E6%9B%B9%E6%80%BB/</url>
+      <content type="html"><![CDATA[<p>真的像？<br>云胶片！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[pcx]]></title>
+      <url>http://www.diawnu.win/2023/02/28/pcx/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[2023新的开始]]></title>
+      <url>http://www.diawnu.win/2023/02/27/2023%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+      <content type="html"><![CDATA[<p>嗨玩<br>医疗–静配室<br>外包<br>医疗–器械<br>媒体–贵州二台</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[后台管理]]></title>
+      <url>http://www.diawnu.win/2023/01/07/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86/</url>
+      <content type="html"><![CDATA[<p>终于调通保存…..<br>获取传参<br>交稿.生意归生意<br>模态层？？？<br>产品经理PM？<br>巡店？<br>模态层<br>马上走<br>微积分？异业平台？<br>嗨玩</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[礼物]]></title>
+      <url>http://www.diawnu.win/2022/11/08/%E7%A4%BC%E7%89%A9/</url>
+      <content type="html"><![CDATA[<p>那个自行车贵啊！<br>我也不知道啊？。。。<br>计划…</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[11月]]></title>
+      <url>http://www.diawnu.win/2022/11/06/11%E6%9C%88/</url>
+      <content type="html"><![CDATA[<p>第四季度<br>第四季度规划<br>rpa考试<br>15号<br>工程师<br>生日<br>新工作<br>NEW job</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[靠自己Go]]></title>
+      <url>http://www.diawnu.win/2022/10/29/%E9%9D%A0%E8%87%AA%E5%B7%B1Go/</url>
+      <content type="html"><![CDATA[<p>没有退路<br>1662？<br>30天已过<br>回龙水库最后的希望！<br>减薪37.5</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[首单4元]]></title>
+      <url>http://www.diawnu.win/2022/10/22/%E9%A6%96%E5%8D%954%E5%85%83/</url>
+      <content type="html"><![CDATA[<p>5件商品 ，世界杯挂件<br>漏一天</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[newGo to 90]]></title>
+      <url>http://www.diawnu.win/2022/10/01/newGo%20to%2090/</url>
+      <content type="html"><![CDATA[<p>90 GOGOGO                        -89<br>目标 幼儿园                            -88<br>西瓜and哔哩哔哩and抖音   -87<br>抖音播放破3000                    -86<br>无有效进度                            -85<br>做手工                                    -84<br>幼儿园                                    -83<br>工作                                        -82<br>工作                                     -81<br>政府公务员                            -80<br>棠湖公园                                -79<br>                                            -78<br>                                            -77<br>                                            -76<br>                                            -75<br>                                            -74<br>                                            -73<br>                                            -72<br>                                            -71<br>                                            -67？<br>                                            -66<br>                                            -65<br>                                            -58<br>                                            -57<br>                                            -56</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[划水九月]]></title>
+      <url>http://www.diawnu.win/2022/09/04/%E5%88%92%E6%B0%B4%E4%B9%9D%E6%9C%88/</url>
+      <content type="html"><![CDATA[<p>原则居家<br>时间11点10分2022年9月5日<br>时间11点51分2022年9月6日<br>时间10点37分2022年9月7日<br>时间22点17分2022年9月8日<br>时间17点14分2022年9月10日中秋<br>时间16点43分2022年9月11日<br>时间17点21分2022年9月12日<br>时间22点35分2022年9月13日<br>时间21点52分2022年9月14日<br>时间21点45分2022年9月15日<br>时间22点18分2022年9月17日解封<br>时间22点44分2022年9月18日负债<br>时间22点16分2022年9月20日工作日<br>时间21点17分2022年9月21日<br>时间22点38分2022年9月22日<br>时间22点16分2022年9月23日<br>时间19点12分2022年9月24日<br>时间21点04分2022年9月25日<br>时间22点03分2022年9月26日<br>时间23点44分2022年9月29日<br>时间22点24分2022年9月30日</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[时间去哪里了]]></title>
+      <url>http://www.diawnu.win/2022/08/28/%E6%97%B6%E9%97%B4%E5%8E%BB%E5%93%AA%E9%87%8C%E4%BA%86/</url>
+      <content type="html"><![CDATA[<h2 id="时间都去哪里了"><a href="#时间都去哪里了" class="headerlink" title="时间都去哪里了"></a>时间都去哪里了</h2><p><img src="https://b3logfile.com/bing/20200902.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>不能断更一天，一不小心就断更30天，哪怕划水也有要坚持不断更</p>
+<p>2022年9月1日16点54分漏更三天<br>riq</p>
+<ul>
+<li>[ ] 列表</li>
+</ul>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[不能生病]]></title>
+      <url>http://www.diawnu.win/2022/07/24/%E4%B8%8D%E8%83%BD%E7%94%9F%E7%97%85/</url>
+      <content type="html"><![CDATA[<p>一次生病，一月白干</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[投标文件]]></title>
+      <url>http://www.diawnu.win/2022/06/20/%E6%8A%95%E6%A0%87%E6%96%87%E4%BB%B6/</url>
+      <content type="html"><![CDATA[<p>时间<br>提交<br>聚餐<br>情绪<br>妥协<br>家庭<br>监控<br>政府<br>生日</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[加班]]></title>
+      <url>http://www.diawnu.win/2022/06/11/%E5%8A%A0%E7%8F%AD/</url>
+      <content type="html"><![CDATA[<p>露营小程序<br>商城</p>
+<h2 id="产品需求文档如何编写"><a href="#产品需求文档如何编写" class="headerlink" title="产品需求文档如何编写"></a>产品需求文档如何编写</h2><p>类型</p>
+<p>项目名称</p>
+<p>模块列表</p>
+<p>功能描述</p>
+<p>功能模块</p>
+<p>功能点</p>
+<p>前端</p>
+<p>用户系统</p>
+<p>注册登录</p>
+<p>个人信息</p>
+<p>个人相关信息：姓名、昵称、个人描述、头像等</p>
+<p>实名认证</p>
+<p>身份证号码+真名<br>身份证正反面+手持</p>
+<p>绑定银行卡</p>
+<p>支持绑定银行卡</p>
+<p>支付密码</p>
+<p>可设置6位数字支付密码，设置时需要短信验证</p>
+<p>露营电商系统</p>
+<p>选营地</p>
+<p>仅支持按入住日期-退房日期选择</p>
+<p>按当前用户所在地方筛选（省）</p>
+<p>营地系统</p>
+<p>营地的介绍、资料、图片展示、联系方式等</p>
+<p>产品系统</p>
+<p>产品的图片展示、介绍、资料、价格等</p>
+<p>支付系统</p>
+<p>支持微信、支付宝、银行卡</p>
+<p>订单系统</p>
+<p>全部订单、待付款、待出行、退款单。<br>订单详情</p>
+<p>营地对接系统</p>
+<p>短信提醒</p>
+<p>客户下单后短信+站内信+通知提醒</p>
+<p>营地订单</p>
+<p>可以对订单进行处理：入住、取消、退房、打折等</p>
+<p>营地管理</p>
+<p>对营地的描述、其他信息进行修改</p>
+<p>营销系统</p>
+<p>会员体系</p>
+<p>会员卡分为：金卡和铂金卡<br>金卡：1万/张 有效期10年 每年（购卡日起算）可入住20晚<br>铂金卡：2万/张 有效期10年 每年（购卡日起算）可入住45晚<br>会员卡不记名、不挂失、可叠加。<br>（例1：张三持有金卡，今年20次用完之后，还可以再买金卡）<br>（例2：张三持有金卡，可以帮朋友订酒店，消耗金卡次数，但是需要填入入住人身份信息）  </p>
+<p>推荐系统</p>
+<p>商城系统</p>
+<p>品牌店</p>
+<p>自营店</p>
+<p>oem产品提供服务</p>
+<p>三方店</p>
+<p>其他服务提供商<br>（markdowm 编辑器？）<br>标书制作！响应式文件</p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[非工作时间不做事]]></title>
+      <url>http://www.diawnu.win/2022/06/05/%E9%9D%9E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E4%B8%8D%E5%81%9A%E4%BA%8B/</url>
+      <content type="html"><![CDATA[<p>两点改文件<br>文件改制完成<br>今天划水一天</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新开始GO]]></title>
+      <url>http://www.diawnu.win/2022/06/04/%E6%96%B0%E5%BC%80%E5%A7%8BGO/</url>
+      <content type="html"><![CDATA[<h2 id="新开始"><a href="#新开始" class="headerlink" title="新开始"></a>新开始</h2><p><img src="https://b3logfile.com/bing/20181125.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>前端</p>
+<p>工作</p>
+<p>副业</p>
+<p>父亲</p>
+<p>##于无声处听惊雷</p>
+<p>非工作时间，做好时间管理</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[成都深夜发布购房新政]]></title>
+      <url>http://www.diawnu.win/2022/06/01/%E6%88%90%E9%83%BD%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E8%B4%AD%E6%88%BF%E6%96%B0%E6%94%BF/</url>
+      <content type="html"><![CDATA[<h2 id="成都连夜发布限购新政"><a href="#成都连夜发布限购新政" class="headerlink" title="成都连夜发布限购新政"></a>成都连夜发布限购新政</h2><p><img src="https://b3logfile.com/bing/20201009.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p><img src="https://b3logfile.com/file/2022/06/16540130081-560b6053.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="16540130081560b6053.png"></p>
+<p>##于无声处听惊雷<br>2016年8月？昭觉寺车站！<br>国运？90后<br>唐阳100万变现？<br>一步空。步步空啊。<br>弯道超车？？？？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新的工作任务]]></title>
+      <url>http://www.diawnu.win/2022/05/30/%E6%96%B0%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1/</url>
+      <content type="html"><![CDATA[<p>文档编辑学习。<br>各区域政策资料。<br>拖延症<br>基础差</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[加油挣钱本周划水了]]></title>
+      <url>http://www.diawnu.win/2022/05/26/%E5%8A%A0%E6%B2%B9%E6%8C%A3%E9%92%B1%E6%9C%AC%E5%91%A8%E5%88%92%E6%B0%B4%E4%BA%86/</url>
+      <content type="html"><![CDATA[<h2 id="加油挣钱本周划水了"><a href="#加油挣钱本周划水了" class="headerlink" title="加油挣钱本周划水了"></a>加油挣钱本周划水了</h2><p><img src="https://b3logfile.com/bing/20180810.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>要定计划哦！工具！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[java学习好地方]]></title>
+      <url>http://www.diawnu.win/2022/05/22/java%E5%AD%A6%E4%B9%A0%E5%A5%BD%E5%9C%B0%E6%96%B9/</url>
+      <content type="html"><![CDATA[<h2 id="发现一个学习-java-的好地方"><a href="#发现一个学习-java-的好地方" class="headerlink" title="发现一个学习 java 的好地方"></a>发现一个学习 java 的好地方</h2><p><img src="https://b3logfile.com/bing/20200119.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>如题！</p>
+<p>站长</p>
+<p>实例强劲。教程更新快。通俗易懂。</p>
+<p>另有前端教程。</p>
+<p>传送门：<a href="https://how2j.cn?p=2513" target="_blank" rel="external">how2j</a></p>
+<p>五一特惠来袭，买不了吃亏。买不了上当.</p>
+<p><img src="https://b3logfile.com/file/2022/05/image-3673cd22.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="image.png"></p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[空杯心态]]></title>
+      <url>http://www.diawnu.win/2022/05/17/%E7%A9%BA%E6%9D%AF%E5%BF%83%E6%80%81/</url>
+      <content type="html"><![CDATA[<h1 id="dianwu-的博客"><a href="#dianwu-的博客" class="headerlink" title="dianwu 的博客"></a><a href="https://pipe.b3log.org/blogs/dianwu" target="_blank" rel="external">dianwu 的博客</a></h1><p>本博客由  <a href="https://github.com/88250/pipe" target="_blank" rel="external">Pipe</a>  强力驱动</p>
+<h2 id="空杯心态。。。。"><a href="#空杯心态。。。。" class="headerlink" title="空杯心态。。。。"></a>空杯心态。。。。</h2><p><img src="https://b3logfile.com/bing/20200918.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>吃的苦中苦，方为人上人</p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[赠有缘人]]></title>
+      <url>http://www.diawnu.win/2022/05/15/%E8%B5%A0%E6%9C%89%E7%BC%98%E4%BA%BA/</url>
+      <content type="html"><![CDATA[<h2 id="赠有缘人"><a href="#赠有缘人" class="headerlink" title="赠有缘人"></a>赠有缘人</h2><p>1.八字真言：虚心、学习、听话、用心。</p>
+<p>2.八大学问：口才学、投资考察学、经济学、人际交往学、管理学、哲学、成功学、心理学。</p>
+<p>3.核心：以自我为中心建立一个销售团队。</p>
+<p>一、老板的心态 二、强烈欲望成功的心态<br>三、归零的心态 四、学习的心态<br>五、正确的心态 六、积极的心态<br>七、付出的心态 八、平常的心态<br>九、包容的心态 十、上班的心态<br>十一、自律自悟的心态 十二、感恩的心态</p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新建学习文件夹]]></title>
+      <url>http://www.diawnu.win/2022/05/14/study-%E6%96%B0%E5%BB%BA%E5%AD%A6%E4%B9%A0%E6%96%87%E4%BB%B6%E5%A4%B9/</url>
+      <content type="html"><![CDATA[<p>hexo new post -p /study/如何新建文件夹.md</p>
+<p>通过以上命令新建了文件夹。和文章。<br>但是标题不对呢？</p>
+<p>好像会用了！！</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[学习笔记20220513]]></title>
+      <url>http://www.diawnu.win/2022/05/13/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B020220513/</url>
+      <content type="html"><![CDATA[<p>自定义属性(设置/获取)<br>在HTML5中添加了data-<em>的⽅式来⾃定义属性，所谓data-</em>实际上上就是data-前缀加上⾃定义的属性名，使⽤这样的结构可以进⾏数据存<br>放。使⽤data-*可以解决⾃定义属性混乱⽆管理的现状。<br>读写⽅式</p>
+<h2 id="data-有两种设置⽅式，可以直接在HTML元素标签上书写"><a href="#data-有两种设置⽅式，可以直接在HTML元素标签上书写" class="headerlink" title="data-*有两种设置⽅式，可以直接在HTML元素标签上书写"></a>data-*有两种设置⽅式，可以直接在HTML元素标签上书写</h2><p>异步加载</p>
+<p>Anguler 显示/隐式  数据绑定</p>
+<p>构造函数</p>
+<p>原型链</p>
+<p>依赖注入</p>
+<p>自定义图标/文字</p>
+<p>回调</p>
+<p>闭包</p>
+<p>改变手形</p>
+<p>首字母大写</p>
+<p>文字溢出显示省略号</p>
+<p>transition 状态过度动画</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[技术胖干货推荐]]></title>
+      <url>http://www.diawnu.win/2022/05/11/%E6%8A%80%E6%9C%AF%E8%83%96%E5%B9%B2%E8%B4%A7%E6%8E%A8%E8%8D%90/</url>
+      <content type="html"><![CDATA[<p>本博客由  <a href="https://github.com/88250/pipe" target="_blank" rel="external">Pipe</a>  强力驱动</p>
+<h2 id="推荐一个技术博主收藏夹。"><a href="#推荐一个技术博主收藏夹。" class="headerlink" title="推荐一个技术博主收藏夹。"></a>推荐一个技术博主收藏夹。</h2><p><img src="https://b3logfile.com/bing/20190819.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<h2 id="收藏夹文件简介"><a href="#收藏夹文件简介" class="headerlink" title="收藏夹文件简介"></a>收藏夹文件简介</h2><p>会把我编程电脑上的收藏夹分享出来，超过100种工具和网站。 分享的不仅是一个收藏夹导入文件，我还做成了Markdown笔记版、脑图版、A3纸打印版、A4纸打印版，方便你各种场景的使用。 如果你是一个前端程序员，拥有这个收藏夹，再善加利用，技术绝对可以直接提升一个档次。</p>
+<p>下载后，你可以直接导入到你的Chrome浏览器中进行使用。</p>
+<h2 id="分类介绍"><a href="#分类介绍" class="headerlink" title="分类介绍"></a>分类介绍</h2><p>我目前的主要工作是前端，所以我的浏览器收藏夹更适合前端程序员使用，但后端也可以作一个参考，按照这个思路整理自己的收藏夹。 我浏览器的收藏夹分为16大类。这些大类分别是：JavaScript、CSS、算法、前端面试、技术社区、前端博客、构建工具、部署工具、静态站点搭建工具、前端代码规范、在线工具、前端开发者大会、图标、其它。</p>
+<h2 id="脑图预览版"><a href="#脑图预览版" class="headerlink" title="脑图预览版"></a>脑图预览版</h2><p><img src="https://newimg.jspang.com/Favorites_1.jpg" alt="技术胖收藏夹大公开"></p>
+<p>##于无声处听惊雷</p>
+<p><a href="https://pipe.b3log.org/blogs/dianwu/tags/%e5%be%85%e5%88%86%e7%b1%bb" target="_blank" rel="external">待分类</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[未解析的域名显示 IIS 默认页]]></title>
+      <url>http://www.diawnu.win/2022/05/10/%E6%9C%AA%E8%A7%A3%E6%9E%90%E7%9A%84%E5%9F%9F%E5%90%8D%E6%98%BE%E7%A4%BAIIS%E9%BB%98%E8%AE%A4%E9%A1%B5/</url>
+      <content type="html"><![CDATA[<h2 id="未解析的域名显示-IIS-默认页"><a href="#未解析的域名显示-IIS-默认页" class="headerlink" title="未解析的域名显示 IIS 默认页"></a>未解析的域名显示 IIS 默认页</h2><p><img src="https://b3logfile.com/bing/20180101.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>有大佬知道怎么回事么？</p>
+<p><img src="https://b3logfile.com/file/2022/05/QQ%E5%9B%BE%E7%89%8720220510001256-2c6a5ea1.jpg?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="QQ图片20220510001256.jpg"></p>
+<p><img src="https://b3logfile.com/file/2022/05/QQ%E5%9B%BE%E7%89%8720220510001311-48c935fc.jpg?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="QQ图片20220510001311.jpg"></p>
+<p>新域名一直没有用过。很奇怪哦</p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[centos8.2和7.9差别好多]]></title>
+      <url>http://www.diawnu.win/2022/05/07/centos8-2%E5%92%8C7-9%E5%B7%AE%E5%88%AB%E5%A5%BD%E5%A4%9A/</url>
+      <content type="html"><![CDATA[<h2 id="centos8-2-和-7-9-差别好多"><a href="#centos8-2-和-7-9-差别好多" class="headerlink" title="centos8.2 和 7.9 差别好多?"></a>centos8.2 和 7.9 差别好多?</h2><p><img src="https://b3logfile.com/bing/20180328.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>每天没事装服务器玩</p>
+<p>centos8.2和7.9用宝塔安装环境能差40分钟？<br>8.2只要20分钟.7.9要1个小时？</p>
+<p>到底哪里出了问题？</p>
+<p><img src="https://b3logfile.com/file/2022/05/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220507001516-7310bdc1.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="微信截图20220507001516.png"></p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Windows Server其实不怎么吃资源了]]></title>
+      <url>http://www.diawnu.win/2022/05/05/Windows%20Server%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%80%8E%E4%B9%88%E5%90%83%E8%B5%84%E6%BA%90%E4%BA%86/</url>
+      <content type="html"><![CDATA[<h2 id="Windows-Server-其实不怎么吃资源了。"><a href="#Windows-Server-其实不怎么吃资源了。" class="headerlink" title="Windows Server 其实不怎么吃资源了。"></a>Windows Server 其实不怎么吃资源了。</h2><p><img src="https://b3logfile.com/bing/20190913.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>整体算多消耗10%资源。（系统占资源比）</p>
+<p>内存都差不多</p>
+<p>cpu 10%多点</p>
+<p>差距最大的是硬盘多吃10多G。</p>
+<p>对于个人玩玩，操作性会弥补性能缺失</p>
+<p><img src="https://b3logfile.com/file/2022/05/dz_win2019-7c20a913.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="dzwin2019.png"></p>
+<p>1核1G 还是跑的搜搜的。</p>
+<p><img src="https://b3logfile.com/file/2022/05/dz_centos7.6-700e9780.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="dzcentos7.6.png"></p>
+<p>1核2G</p>
+<p><img src="https://b3logfile.com/file/2022/05/wp_centos7.9-9bb8d6e6.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="wpcentos7.9.png"></p>
+<p>2核4G</p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[测试目录文件夹会不会删除原有文件]]></title>
+      <url>http://www.diawnu.win/2022/05/04/%E6%B5%8B%E8%AF%95%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E5%A4%B9%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%88%A0%E9%99%A4%E5%8E%9F%E6%9C%89%E6%96%87%E4%BB%B6/</url>
+      <content type="html"><![CDATA[<p>为了同步文件夹<br>没有删除原有文件，没有执行clean</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[为了B3T弄了一个钱包]]></title>
+      <url>http://www.diawnu.win/2022/05/04/%E4%B8%BA%E4%BA%86B3T%E5%BC%84%E4%BA%86%E4%B8%80%E4%B8%AA%E9%92%B1%E5%8C%85/</url>
+      <content type="html"><![CDATA[<p>eth：0x36B3AEd2909c467afA7387FA65790efd9C41aBD3</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[vue3x知识地图]]></title>
+      <url>http://www.diawnu.win/2022/05/04/vue3x%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE/</url>
+      <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p>Vue3.x知识地图（V1.0）</p>
+<p>B站视频介绍：<a href="https://gitee.com/link?target=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1db4y1r7cd" target="_blank" rel="external">爆肝！Vue3.x知识地图 前端程序员必备 免费领取</a></p>
+<p>终于来了，Vue3.x知识地图，涵盖85%常用重要知识点。从开始制作到完成，一共用了43天，修改超过20次。已经让阿里、腾讯、京东等众多大佬审核修改并审核，获得一致好评后，才敢放出来开源。</p>
+<p>特别说明，我作的知识地图不只是一张简单的图。它是一个压缩包、里边包括脑图XMind源文件夹、PNG透明图片文件夹、A3纸<em>PS文件夹、A3纸</em>打印版文件夹、A3纸_横板挂图、A4纸<em>PS文件夹、A4纸</em>打印版文件夹、A4纸_竖板挂图。 也就是你获得这个压缩包后，完全可以满足你的各种使用需求，也可以根据自己的喜好修改这张知识地图。这也是一个程序员应该有的开源精神。</p>
+<h2 id="1-使用方法"><a href="#1-使用方法" class="headerlink" title="1.使用方法"></a><a href="https://gitee.com/jishupang/vue3-knowledge-map#1%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95" target="_blank" rel="external"></a>1.使用方法</h2><p>你可以把这张知识地图打印出来，贴在墙上或者工位处。如果你觉的打印麻烦，也可以把这张图放在电脑或手机里，随时查看。这张知识地图涵盖了Vue3.x的85%常用知识点。查询简单，知识全面。</p>
+<p>整体看完，再来看一下细节。地图中的一小部分，生命周期函数，也叫作钩子函数。开发时使用的钩子函数，可以轻松在地图中找到，方便开发，加快效率。如果你还对Vue3新特性CompostionAPI不太熟悉，你也可以把这部分单独打印出来，贴在工位，随用随查，方便记忆。</p>
+<p>但我还是要说明一下，这张图并不能解决你学习Vue3.x的问题，学习还是要稳扎稳打，通过视频或者官方文档脚踏实地学习。我也录制了全套的Vue3.x视频教程，想学习的小伙伴可以考古一下以前的视频。知识地图的作用是帮助记忆、建立知识框架和快速查找。可以简单理解为大佬的学习笔记，学霸的高分秘籍。如果你工作中使用Vue进行开发，我觉的这张图是你案头必备物品。它就像你去红浪漫时，选择小姐姐的菜单，简单、快捷、了解你的心意，有时候光是看，就会让你嘴角上扬，心里开花。</p>
+<h2 id="2-直接在Gigee-码云-上进行下载"><a href="#2-直接在Gigee-码云-上进行下载" class="headerlink" title="2.直接在Gigee(码云)上进行下载"></a><a href="https://gitee.com/jishupang/vue3-knowledge-map#2%E7%9B%B4%E6%8E%A5%E5%9C%A8gigee%E7%A0%81%E4%BA%91%E4%B8%8A%E8%BF%9B%E8%A1%8C%E4%B8%8B%E8%BD%BD" target="_blank" rel="external"></a>2.直接在Gigee(码云)上进行下载</h2><p>仓库地址：[<a href="https://gitee.com/jishupang/vue3-knowledge-map" target="_blank" rel="external">https://gitee.com/jishupang/vue3-knowledge-map</a>]</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[sym安装有感]]></title>
+      <url>http://www.diawnu.win/2022/05/03/sym%E5%AE%89%E8%A3%85%E6%9C%89%E6%84%9F/</url>
+      <content type="html"><![CDATA[<p>0、php是世界最好的语言。</p>
+<p>浏览器安装。按教程起码90%人能搭个默认网站了。</p>
+<p>1、java配环境就能劝退90%的人。</p>
+<p>问题1、mvn不是内部命令。</p>
+<p>面向scdn一顿查。安装了软件还要配环境变量。。。</p>
+<p>运行mvn <code>mvn package</code> 还一堆war err ….</p>
+<p>我的社区还要等等了</p>
+<p>[WARNING]<br>[WARNING] Some problems were encountered while building the effective model for org.b3log:symphony:jar:3.6.4<br>[WARNING] ‘dependencies.dependency.systemPath’ for org.patchca:patchca:jar should not point at files within the project directory, ${project.basedir}/src/main/resources/lib/net/pusuo/patchca-0.5.0.jar will be unresolvable by dependent projects @ line 212,<br>column 25<br>[WARNING] ‘build.plugins.plugin.version’ for org.apache.maven.plugins:maven-jar-plugin is missing. @ line 316, column 21<br>[WARNING]<br>[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.<br>[WARNING]<br>[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.<br>[WARNING]<br>[INFO]<br>[INFO] ————————-&lt; org.b3log:symphony &gt;————————-<br>[INFO] Building Symphony 3.6.4<br>[INFO] ——————————–[ jar ]———————————<br>Downloading from central: <a href="https://repo.maven.apache.org/maven2/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.pom" target="_blank" rel="external">https://repo.maven.apache.org/maven2/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.pom</a><br>[INFO] ————————————————————————<br>[INFO] BUILD FAILURE<br>[INFO] ————————————————————————<br>[INFO] Total time: 2.202 s<br>[INFO] Finished at: 2022-05-03T12:45:10+08:00<br>[INFO] ————————————————————————<br>[ERROR] Plugin com.mycila:license-maven-plugin:3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for com.mycila:license-maven-plugin:jar:3.0: Could not transfer artifact com.mycila:license-maven-plugin:pom:3.0 from/to maven-default-http-blocker (<a href="http://0.0.0.0/" target="_blank" rel="external">http://0.0.0.0/)</a>): Blocked mirror for repositories: [aliyun (<a href="http://maven.aliyun.com/nexus/content/groups/public" target="_blank" rel="external">http://maven.aliyun.com/nexus/content/groups/public</a>, default, releases+snapshots)] -&gt; [Help 1]<br>[ERROR]<br>[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.<br>[ERROR] Re-run Maven using the -X switch to enable full debug logging.<br>[ERROR]<br>[ERROR] For more information about the errors and possible solutions, please read the following articles:</p>
+<p>##于无声处听惊雷  </p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[这个博客就是自己的自留地]]></title>
+      <url>http://www.diawnu.win/2022/05/02/%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E5%B0%B1%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E7%95%99%E5%9C%B0/</url>
+      <content type="html"><![CDATA[<p>#dianwu的自留地<br>3月20号计划开办网站。newGo项目建立<br>4月30号139元买下百度轻量云两年。ps:主要是狗日的腾讯又涨价了。<br>4月29无意发现滴链社区，一个8W人的小众社区。<br>用滴链全家桶搭建我设想的社区。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[滴链、小众社区设想]]></title>
+      <url>http://www.diawnu.win/2022/05/01/%E6%BB%B4%E9%93%BE%E3%80%81%E5%B0%8F%E4%BC%97%E7%A4%BE%E5%8C%BA%E8%AE%BE%E6%83%B3/</url>
+      <content type="html"><![CDATA[<h2 id="知识共享很不错的观念"><a href="#知识共享很不错的观念" class="headerlink" title="知识共享很不错的观念"></a>知识共享很不错的观念</h2><p>互联网（或者知识）还是太大了。</p>
+<p>每个人了解的信息还是有局限的。</p>
+<p>也算关注互联网的人，还是有很多信息都不了解。</p>
+<p>今天无意发现solo。</p>
+<p>D 准备构建的系统正是我寻找的东西。</p>
+<p>社区运行10年8W用户，居然能这么小众，</p>
+<p>而且我还是在关注相关信息的情况下。</p>
+<p>知识地图。挖掘个人脑海的想法。都是我之前所思考的问题。</p>
+<p>不知晓社区有无完全解决方案了。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[更新hexo版本的]]></title>
+      <url>http://www.diawnu.win/2022/04/29/%E6%9B%B4%E6%96%B0hexo%E7%89%88%E6%9C%AC%E7%9A%84/</url>
+      <content type="html"><![CDATA[<p>哎一推错面向百度编程不可取，而且生成文章慢的很..一不小心生成了三篇文章.<br>计划升级hexo 版本 目前3.2.2 和next版本目前5.0<br>和加入<a href="https://valine.js.org/hexo.html#hexo-theme-next" target="_blank" rel="external">https://valine.js.org/hexo.html#hexo-theme-next</a></p>
+<p>目前来看只有搁置了</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[更新hexo版本]]></title>
+      <url>http://www.diawnu.win/2022/04/29/%E6%9B%B4%E6%96%B0hexo%E7%89%88%E6%9C%AC/</url>
+      <content type="html"><![CDATA[<p>哎一推错面向百度编程不可取，而且生成文章慢的很..一不小心生成了三篇文章.</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[更新hexo]]></title>
+      <url>http://www.diawnu.win/2022/04/29/%E6%9B%B4%E6%96%B0hexo/</url>
+      <content type="html"><![CDATA[<p>哎一推错面向百度编程不可取，而且生成文章慢的很..一不小心生成了三篇文章.<br>// A code block<br>var foo = ‘bar’<br>dows PowerShell<br>版权所有 (C) Microsoft Corporation。保留所有权利。</p>
+<p>尝试新的跨平台 PowerShell <a href="https://aka.ms/pscore6" target="_blank" rel="external">https://aka.ms/pscore6</a></p>
+<p>PS C:\WINDOWS\system32&gt; cd C:\Users\one\Desktop\blog<br>PS C:\Users\one\Desktop\blog&gt; hexo -v<br>hexo: 3.2.2<br>hexo-cli: 4.3.0<br>os: win32 10.0.19044<br>node: 12.18.1<br>v8: 7.8.279.23-node.38<br>uv: 1.38.0<br>zlib: 1.2.11<br>brotli: 1.0.7<br>ares: 1.16.0<br>modules: 72<br>nghttp2: 1.41.0<br>napi: 6<br>llhttp: 2.0.4<br>http_parser: 2.9.3<br>openssl: 1.1.1g<br>cldr: 37.0<br>icu: 67.1<br>tz: 2019c<br>unicode: 13.0<br>PS C:\Users\one\Desktop\blog&gt; npm install -g npm-check<br>npm WARN deprecated core-js@2.6.12: core-js@<3.4 is="" no="" longer="" maintained="" and="" not="" recommended="" for="" usage="" due="" to="" the="" number="" of="" issues.="" because="" v8="" engine="" whims,="" feature="" detection="" in="" old="" core-js="" versions="" could="" cause="" a="" slowdown="" up="" 100x="" even="" if="" nothing="" polyfilled.="" please,="" upgrade="" your="" dependencies="" actual="" version="" core-js.="" npm="" warn="" deprecated="" cross-spawn-async@2.2.5:="" cross-spawn="" requires="" build="" toolchain,="" use="" it="" instead="" c:\program="" files\nodejs\npm-check="" -=""> C:\Program Files\nodejs\node_modules\npm-check\bin\cli.js</3.4></p>
+<blockquote>
+<p>core-js@2.6.12 postinstall C:\Program Files\nodejs\node_modules\npm-check\node_modules\core-js<br>node -e “try{require(‘./postinstall’)}catch(e){}”</p>
+</blockquote>
+<p>Thank you for using core-js ( <a href="https://github.com/zloirock/core-js" target="_blank" rel="external">https://github.com/zloirock/core-js</a> ) for polyfilling JavaScript standard library!</p>
+<p>The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:</p>
+<blockquote>
+<p><a href="https://opencollective.com/core-js" target="_blank" rel="external">https://opencollective.com/core-js</a><br><a href="https://www.patreon.com/zloirock" target="_blank" rel="external">https://www.patreon.com/zloirock</a></p>
+</blockquote>
+<p>Also, the author of core-js ( <a href="https://github.com/zloirock" target="_blank" rel="external">https://github.com/zloirock</a> ) is looking for a good job -)</p>
+<ul>
+<li>npm-check@5.9.2<br>added 273 packages from 141 contributors in 249.628s<br>PS C:\Users\one\Desktop\blog&gt; hexo -v<br>hexo: 3.2.2<br>hexo-cli: 4.3.0<br>os: win32 10.0.19044<br>node: 12.18.1<br>v8: 7.8.279.23-node.38<br>uv: 1.38.0<br>zlib: 1.2.11<br>brotli: 1.0.7<br>ares: 1.16.0<br>modules: 72<br>nghttp2: 1.41.0<br>napi: 6<br>llhttp: 2.0.4<br>http_parser: 2.9.3<br>openssl: 1.1.1g<br>cldr: 37.0<br>icu: 67.1<br>tz: 2019c<br>unicode: 13.0<br>PS C:\Users\one\Desktop\blog&gt; npm install -g npm-upgrade<br>npm WARN deprecated request@2.88.2: request has been deprecated, see <a href="https://github.com/request/request/issues/3142" target="_blank" rel="external">https://github.com/request/request/issues/3142</a><br>npm WARN deprecated har-validator@5.1.5: this library is no longer supported<br>npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See <a href="https://v8.dev/blog/math-random" target="_blank" rel="external">https://v8.dev/blog/math-random</a> for details.<br>C:\Program Files\nodejs\npm-upgrade -&gt; C:\Program Files\nodejs\node_modules\npm-upgrade\lib\bin\cli.js</li>
+<li>npm-upgrade@3.1.0<br>added 376 packages from 248 contributors in 346.429s<br>PS C:\Users\one\Desktop\blog&gt; hexo -v<br>hexo: 3.2.2<br>hexo-cli: 4.3.0<br>os: win32 10.0.19044<br>node: 12.18.1<br>v8: 7.8.279.23-node.38<br>uv: 1.38.0<br>zlib: 1.2.11<br>brotli: 1.0.7<br>ares: 1.16.0<br>modules: 72<br>nghttp2: 1.41.0<br>napi: 6<br>llhttp: 2.0.4<br>http_parser: 2.9.3<br>openssl: 1.1.1g<br>cldr: 37.0<br>icu: 67.1<br>tz: 2019c<br>unicode: 13.0<br>PS C:\Users\one\Desktop\blog&gt; cd C:\Users\one\Desktop\hexo_next\blog<br>PS C:\Users\one\Desktop\hexo_next\blog&gt; hexo new 更新hexo<br>INFO  Created: ~\Desktop\hexo_next\blog\source_posts\2022\04\更新hexo.md<br>PS C:\Users\one\Desktop\hexo_next\blog&gt; hexo new 更新hexo版本<br>INFO  Created: ~\Desktop\hexo_next\blog\source_posts\2022\04\更新hexo版本.md<br>PS C:\Users\one\Desktop\hexo_next\blog&gt; hexo new “更新hexo版本的”<br>INFO  Created: ~\Desktop\hexo_next\blog\source_posts\2022\04\更新hexo版本的.md<br>PS C:\Users\one\Desktop\hexo_next\blog&gt;</li>
+</ul>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[按日期归纳]]></title>
+      <url>http://www.diawnu.win/2022/04/28/%E6%8C%89%E6%97%A5%E6%9C%9F%E5%BD%92%E7%BA%B3/</url>
+      <content type="html"><![CDATA[<p>ok 又学习了新知识点，</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[post]]></title>
+      <url>http://www.diawnu.win/2022/04/28/study-%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/</url>
+      <content type="html"><![CDATA[<p>hexo new post -p /study/如何新建文件夹.md</p>
+<p>通过以上命令新建了文件夹。和文章。<br>但是标题不对呢？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[hexo学习笔记]]></title>
+      <url>http://www.diawnu.win/2022/04/28/hexo%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      <content type="html"><![CDATA[<p>layout: ‘[study]’<br>1、计划是在 _posts文件夹新建一个study文件夹管理，看来方法错误。<br>2、默认文档时间问题还没有解决，<br>        上次从备份文件重新生成博客后，默认hello world 时间就一直是当时日期了？<br>        只有手动添加date 标签？？？</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[样式初始化]]></title>
+      <url>http://www.diawnu.win/2022/04/26/%E6%A0%B7%E5%BC%8F%E5%88%9D%E5%A7%8B%E5%8C%96/</url>
+      <content type="html"><![CDATA[<h2 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h2><p>六条样式预设</p>
+<p>{margin 0 padding 0} 外边距和内填充清零</p>
+<p>ul{list-style：none } 列表项取消</p>
+<p>img input{boder：none} 边框线取消</p>
+<p>a{text-decoration:none} 链接下划线取消</p>
+<p>body{font-family:arial “微软雅黑”，#fff；}字体。背景色预设</p>
+<p>i{ font-style：normal。font-family：consolas}取消I标签斜体，设置特殊字体（固定字符宽度的字型，属无衬线字体）。</p>
+<p>关注信息<br><br>transition 状态过度动画<br><br>改变手形<br><br><br>特殊符号<br>自定义属性(设置/获取)</p>
+<p>异步加载<br>构造函数</p>
+<p>原型链</p>
+<p>依赖注入</p>
+<p>自定义图标/文字</p>
+<p>回调</p>
+<p>闭包</p>
+<p>method=”get”</p>
+<p>标签属性</p>
+<p>图片提交</p>
+<p>鼠标样式</p>
+<p>字体引用</p>
+<p>闭包回调</p>
+<p>continue 表示放弃本次循环，进行下一次循环</p>
+<p>媒体查询</p>
+<p>回调函数</p>
+<p>冒泡</p>
+<p>跨域ajax</p>
+<p>流体布局</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[中国互联网环境]]></title>
+      <url>http://www.diawnu.win/2022/04/22/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%8E%AF%E5%A2%83/</url>
+      <content type="html"><![CDATA[<pre><code>恢复访问.80端口要备案哦。。。不要留空主机
+</code></pre><p>工信部也是厉害</p>
+<p>您好 ，经核查发现您IP：114.96.112.30 80 解析了未备案域名：<a href="http://www.*****.com/" target="_blank" rel="external">www.<em>**</em>.com</a> 未备案域名不能够解析到天翼云主机上，请您在 2022 年 4月22日 16点00前删除解析，逾期将封堵您的主机。如该域名并非您单位所有，请按附件中的文档进行操作，阻止该域名从您的主机IP上进行跳转。如有其他问题请随时联系客服热线4008109889转3，或通过官网提交工单，感谢您对天翼云的关注与信任。</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第一篇文章]]></title>
+      <url>http://www.diawnu.win/2022/04/22/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<p>陈总推荐的第一篇文章</p>
+<ol>
+<li><p>Vue概述<br>1.1 认识Vue</p>
+<p> Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层。Vue.js 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件。它不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与现代化的工具链以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用提供驱动。</p>
+<p> 前端框架三巨头：<strong>Vue.js、React.js、AngularJS，vue.js</strong>以其轻量易用著称，vue.js和React.js发展速度最快。</p>
+</li>
+</ol>
+<p><strong>渐进式</strong>：可以选择性的使用该框架的一个或一些组件，这些组件的使用也不需要将框架全部组件都应用；而且用了这些组件也不要求你的系统全部都使用该框架。</p>
+<h3 id="1-2-MVVM模式"><a href="#1-2-MVVM模式" class="headerlink" title="1.2 MVVM模式"></a>1.2 MVVM模式</h3><h3 id="1-2-MVVM模式-1"><a href="#1-2-MVVM模式-1" class="headerlink" title="1.2 MVVM模式"></a>1.2 MVVM模式</h3><ol>
+<li><ol>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t5" target="_blank" rel="external"><br>2.2 VueJS 常用系统指令</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t6" target="_blank" rel="external">2.3 v-text与v-html</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t7" target="_blank" rel="external">2.4 v-bind</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t8" target="_blank" rel="external">2.5 v-model</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t9" target="_blank" rel="external">2.6 v-for</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t10" target="_blank" rel="external">2.6 v-if 和 v-show</a></li>
+</ol>
+</li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t11" target="_blank" rel="external">3. Vuejs生命周期</a></li>
+<li><ol>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t12" target="_blank" rel="external">vue生命周期：</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t13" target="_blank" rel="external">vue代码演示生命周期：</a></li>
+</ol>
+</li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t14" target="_blank" rel="external">4. Vuejs ajax</a></li>
+<li><ol>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t15" target="_blank" rel="external">4.1 axios</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t16" target="_blank" rel="external">4.2 get请求</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t17" target="_blank" rel="external">4.3 post请求</a></li>
+</ol>
+</li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t18" target="_blank" rel="external">5. 案例</a></li>
+<li><ol>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t19" target="_blank" rel="external">5.1 案例需求</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t20" target="_blank" rel="external">5.2 数据库设计与表结构</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t21" target="_blank" rel="external">5.3 服务器端</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t22" target="_blank" rel="external">5.3.1 配置文件</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t23" target="_blank" rel="external">5.3.2 domain</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t24" target="_blank" rel="external">5.3.3 dao</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t25" target="_blank" rel="external">5.3.4 service</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t26" target="_blank" rel="external">5.3.5 service.impl</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t27" target="_blank" rel="external">5.3.5 controller</a></li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t28" target="_blank" rel="external">5.4 客户端</a></li>
+</ol>
+</li>
+<li><a href="https://blog.csdn.net/qq_40301475/article/details/114744736#t29" target="_blank" rel="external">所遇问题与解决方案</a><br>版权声明：本文为CSDN博主「晒太阳的黑宝」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。<br>原文链接：<a href="https://blog.csdn.net/qq_40301475/article/details/114744736" target="_blank" rel="external">https://blog.csdn.net/qq_40301475/article/details/114744736</a></li>
+</ol>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[还是用dz搭建]]></title>
+      <url>http://www.diawnu.win/2022/04/19/%E8%BF%98%E6%98%AF%E7%94%A8dz%E6%90%AD%E5%BB%BA/</url>
+      <content type="html"><![CDATA[<p>在很久以前就玩dz，听雨轩模板。很好看今天又重新搭了一下。<br><br><br>从新搭建还是蛮快的.处理了宝塔不能外网访问.<br><a href="http://www.tenaim.com" target="_blank" rel="external">http://www.tenaim.com</a><br><br><br>另外个人域名统计<br><a href="http://www.dianwu.win/newGo/index.html" target="_blank" rel="external">http://www.dianwu.win/newGo/index.html</a><br><br>添加统计代码<br>在页面里添加是没有用的！尴尬</p>
+<h3 id="舒适区？重复劳动！技术没有增长点"><a href="#舒适区？重复劳动！技术没有增长点" class="headerlink" title="舒适区？重复劳动！技术没有增长点"></a>舒适区？重复劳动！技术没有增长点</h3>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[我怎么把github项目玩没的]]></title>
+      <url>http://www.diawnu.win/2022/04/16/%E6%88%91%E6%80%8E%E4%B9%88%E6%8A%8Agithub%E9%A1%B9%E7%9B%AE%E7%8E%A9%E6%B2%A1%E7%9A%84/</url>
+      <content type="html"><![CDATA[<p><strong>把github项目完没也是没谁了</strong></p>
+<p></p><h1>hexo+github pages</h1><p></p>
+<p></p><p>在geithub上搭了一个博客、上面只有静态文件</p><br>今天想用新电脑重新发文章。如是不知道在那个地方找到了<br>一个以前源文件备份、开整。<br><br>在push才发现这个和线上版本差很多内容。以前都是是复制public文件夹向上push。<br>今天用的hexo d。<br>结果发现hexo d是==覆盖==。。。<br><br>所以我用老备份文件<del>覆盖</del>了最新博客。<br><br>还想着回滚结果发现没得办法了。<br><br>希望大家不要踩坑，<br>关掉强推功能，<br><br>关掉强推功能，<br><br>关掉强推功能，<br>不然一不小心备份就没了<br><br>github本来就是备份的工具，操作不当、悔不当初啊。<br><br>hexo d&gt;强推<br><br><br>git 不熟悉再次搞崩了！<p></p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第一个域名]]></title>
+      <url>http://www.diawnu.win/2022/04/16/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%9F%E5%90%8D/</url>
+      <content type="html"><![CDATA[<h1 id="dianwu-的博客"><a href="#dianwu-的博客" class="headerlink" title="dianwu 的博客"></a><a href="https://pipe.b3log.org/blogs/dianwu" target="_blank" rel="external">dianwu 的博客</a></h1><p>本博客由  <a href="https://github.com/88250/pipe" target="_blank" rel="external">Pipe</a>  强力驱动</p>
+<h2 id="想想我是不是也能算个互联网老兵呢！！！"><a href="#想想我是不是也能算个互联网老兵呢！！！" class="headerlink" title="想想我是不是也能算个互联网老兵呢！！！"></a>想想我是不是也能算个互联网老兵呢！！！</h2><p><img src="https://b3logfile.com/bing/20171122.jpg?imageView2/1/w/768/h/432/interlace/1/q/100" alt=""></p>
+<p>第一个域名</p>
+<p><img src="https://b3logfile.com/file/2022/05/1-fd3302f7.png?imageView2/2/w/1280/format/jpg/interlace/1/q/100" alt="1.png"></p>
+<p><strong>想想我是不是也能算个互联网老兵呢！！！</strong></p>
+<p>==尊敬的DNSPod用户：==</p>
+<p>您添加的 1 个域名尚未被注册，我们将为您保留 7 天，如果 7 天后该域名仍未注册，系统将在解析列表中删除该域名！</p>
+<p>详细信息如下：</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>域名</td>
+<td><strong>cybzn.com</strong></td>
+</tr>
+<tr>
+<td>添加时间</td>
+<td>2010-04-04  01:31:24</td>
+</tr>
+<tr>
+<td>操作</td>
+<td>立即注册</td>
+</tr>
+</tbody>
+</table>
+<p>本邮件由DNSPod系统自动发出，请勿直接回复！<br>如有任何问题请<a href="http://url.go4u.cn:9527/tickets" target="_blank" rel="external">提交工单</a><br>或电联：400-111-1234</p>
+<p>新浪微博：<a href="http://url.go4u.cn:9527/1a200f58e7222b3705b0be40237e496e" target="_blank" rel="external">http://weibo.com/DNSPod</a><br>腾讯微博：<a href="http://url.go4u.cn:9527/59a802c230fc37545cb60365c02a26a2" target="_blank" rel="external">http://t.qq.com/DNSPod</a></p>
+<p>##于无声处听惊雷</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> one </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新的开始Go Go Go]]></title>
+      <url>http://www.diawnu.win/2022/03/20/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8BGo-Go-Go/</url>
+      <content type="html"><![CDATA[<p>Welcome</p>
+<p><strong>NEW</strong></p>
+<p>现在是16点09分</p>
+<p><div><br>    <center></center></div></p>
+<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1362360495&auto=1&height=66"></iframe><br>    <br></p>
+<p></p><h3>总结</h3><br>903收官<p></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> one </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[如何用python搭建一个公众号。]]></title>
+      <url>http://www.diawnu.win/2018/04/26/%E5%A6%82%E4%BD%95%E7%94%A8python%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%AC%E4%BC%97%E5%8F%B7-one/</url>
+      <content type="html"><![CDATA[<pre><code>看@路人甲 开发的个人公众号蛮不错的。就想着自己搭建一个，熟悉一下开发流程。但是路人甲的代码以流失了，通过强大的百度知乎另一位@段小草 ，代码完整，逻辑清晰。基本按照流程就能搭建自己的公众号了。
+</code></pre><p>1.申请公众号<br>这个不必多说，很简单安腾讯的流程来就行了<br>2.申请sae<br>这个也没有什么特别的要说的。<br>3.部署代码<br>这部分还是研究了很久的。哪个token 一直在不东怎么弄，@段小草 的攻略是之前的了，现在在公众号里只用配置一次就行了。url 就是自己的sae项目地址<br>4.遇见的小问题<br>就是根据第二篇博文搭建的时候图灵机器人，看漏了一个参数，又不报错，很绝望，新浪的日志也很简单，最后请教的作者本人解决的。<br>这了感谢作者。<br> 干货请对照@段小草博文就ok了</p>
+<blockquote>
+<p><a href="https://www.zhihu.com/question/28361295/answer/103768857" target="_blank" rel="external">https://www.zhihu.com/question/28361295/answer/103768857</a><br><a href="https://zhuanlan.zhihu.com/p/21354943" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/21354943</a><br><a href="https://zhuanlan.zhihu.com/p/21390250" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/21390250</a></p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[专业深度建设]]></title>
+      <url>http://www.diawnu.win/2018/04/03/%E4%B8%93%E4%B8%9A%E6%B7%B1%E5%BA%A6%E5%BB%BA%E8%AE%BE/</url>
+      <content type="html"><![CDATA[<pre><code>时间：
+2018年4月3日
+</code></pre>]]></content>
+      
+        <categories>
+            
+            <category> jobs </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 专业深度建设 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第一篇博文]]></title>
+      <url>http://www.diawnu.win/2017/05/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
+      <content type="html"><![CDATA[<pre><code>成都大搜索科技有限公司，我会记得你的，你放心。//www.d6ss.com
+不等10年，小人立显，释放压力。
+
+加油！！！
+***:***:***:***
+</code></pre>]]></content>
+      
+        <categories>
+            
+            <category> jobs </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 大搜索 </tag>
+            
+            <tag> 五天 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[添加友情链接]]></title>
+      <url>http://www.diawnu.win/2017/03/10/%E6%B7%BB%E5%8A%A0%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</url>
+      <content type="html"><![CDATA[<p>Welcome<br>第一篇博文；<br>添加友情链接；<br>更换本地关联文件可以直接部署网站。</p>
+<div><br>    <center><br>        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="https://music.163.com/outchain/player?type=2&id=33856282&auto=0&height=66"><br>        </iframe><br>    </center><br></div>
+
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> one </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[name]]></title>
+      <url>http://www.diawnu.win/2017/03/07/name/</url>
+      <content type="html"><![CDATA[<p></p><h1>hello world</h1><p></p>
+<p></p><p>这是第一篇博客</p><p></p>
+<p></p><p>默认的第一篇博客hello world，编辑日期目前没有研究懂</p><p></p>
+<p>###2022年5月28日<br>以文件创建日期为发布世界。已手动设置date属性。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> one </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 第一 </tag>
+            
+            <tag> one </tag>
+            
+            <tag> dianwu </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>http://www.diawnu.win/2017/03/05/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
